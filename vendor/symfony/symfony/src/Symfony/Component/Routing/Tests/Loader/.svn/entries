@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Loader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+YamlFileLoaderTest.php
+file
+
+
+
+add
+
+PhpFileLoaderTest.php
+file
+
+
+
+add
+
+AnnotationFileLoaderTest.php
+file
+
+
+
+add
+
+ClosureLoaderTest.php
+file
+
+
+
+add
+
+AbstractAnnotationLoaderTest.php
+file
+
+
+
+add
+
+AnnotationDirectoryLoaderTest.php
+file
+
+
+
+add
+
+AnnotationClassLoaderTest.php
+file
+
+
+
+add
+
+XmlFileLoaderTest.php
+file
+
+
+
+add
+

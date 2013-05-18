@@ -1,0 +1,166 @@
+10
+
+dir
+8
+https://eip-community-site.googlecode.com/svn/trunk/vendor
+https://eip-community-site.googlecode.com/svn
+
+
+
+2013-05-16T12:00:51.654711Z
+7
+yohan.rodrig@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+phpoption
+dir
+
+
+
+add
+
+swiftmailer
+dir
+
+
+
+add
+
+composer
+dir
+
+sonata-project
+dir
+
+
+
+add
+
+jms
+dir
+
+
+
+add
+
+knplabs
+dir
+
+
+
+add
+
+kriswallsmith
+dir
+
+
+
+add
+
+autoload.php
+file
+
+
+
+
+2013-05-17T14:11:36.000000Z
+0a6099623aadddd98331ea67a2b5ea20
+2013-05-16T12:00:51.654711Z
+7
+yohan.rodrig@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+182
+
+sensio
+dir
+
+
+
+add
+
+symfony
+dir
+
+
+
+add
+
+psr
+dir
+
+
+
+add
+
+friendsofsymfony
+dir
+
+
+
+add
+
+doctrine
+dir
+
+stfalcon
+dir
+
+
+
+add
+
+monolog
+dir
+
+
+
+add
+
+twig
+dir
+
+
+
+add
+
+jdorn
+dir
+
+
+
+add
+

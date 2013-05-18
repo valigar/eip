@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+GsaFeedWriterTest.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+XmlWriterTest.php
+file
+
+
+
+add
+
+SitemapWriterTest.php
+file
+
+
+
+add
+
+XlsWriterTest.php
+file
+
+
+
+add
+
+JsonWriterTest.php
+file
+
+
+
+add
+
+CsvWriterTest.php
+file
+
+
+
+add
+

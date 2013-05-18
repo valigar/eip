@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Tests/Functional
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Issue11Test.php
+file
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+AutomaticControllerInjectionsTest.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AppKernel.php
+file
+
+
+
+add
+
+Bundle
+dir
+
+
+
+add
+
+Issue48Test.php
+file
+
+
+
+add
+
+ControllerResolverTest.php
+file
+
+
+
+add
+
+BaseTestCase.php
+file
+
+
+
+add
+

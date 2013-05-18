@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle/Tests/DependencyInjection/Fixtures/config/yml
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+antiflood.yml
+file
+
+
+
+add
+
+redirect.yml
+file
+
+
+
+add
+
+full.yml
+file
+
+
+
+add
+
+redirect_single.yml
+file
+
+
+
+add
+
+smtp.yml
+file
+
+
+
+add
+
+spool_memory.yml
+file
+
+
+
+add
+
+null.yml
+file
+
+
+
+add
+
+spool.yml
+file
+
+
+
+add
+
+empty.yml
+file
+
+
+
+add
+

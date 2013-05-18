@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Users/valigar/Documents/Sites/eip-community-site/app/config/routing_dev.yml

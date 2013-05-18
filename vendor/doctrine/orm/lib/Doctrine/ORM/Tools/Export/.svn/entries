@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Export
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ClassMetadataExporter.php
+file
+
+
+
+add
+
+ExportException.php
+file
+
+
+
+add
+
+Driver
+dir
+
+
+
+add
+

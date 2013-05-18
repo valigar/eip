@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Export/Driver
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+XmlExporter.php
+file
+
+
+
+add
+
+YamlExporter.php
+file
+
+
+
+add
+
+AbstractExporter.php
+file
+
+
+
+add
+
+PhpExporter.php
+file
+
+
+
+add
+
+AnnotationExporter.php
+file
+
+
+
+add
+

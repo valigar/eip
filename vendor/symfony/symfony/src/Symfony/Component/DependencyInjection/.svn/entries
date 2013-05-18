@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ContainerBuilder.php
+file
+
+
+
+add
+
+Alias.php
+file
+
+
+
+add
+
+ScopeInterface.php
+file
+
+
+
+add
+
+DefinitionDecorator.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+Reference.php
+file
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+ContainerAware.php
+file
+
+
+
+add
+
+IntrospectableContainerInterface.php
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+ContainerInterface.php
+file
+
+
+
+add
+
+ParameterBag
+dir
+
+
+
+add
+
+Dumper
+dir
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+Exception
+dir
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+Scope.php
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+TaggedContainerInterface.php
+file
+
+
+
+add
+
+Loader
+dir
+
+
+
+add
+
+Parameter.php
+file
+
+
+
+add
+
+Container.php
+file
+
+
+
+add
+
+ContainerAwareInterface.php
+file
+
+
+
+add
+
+Compiler
+dir
+
+
+
+add
+
+SimpleXMLElement.php
+file
+
+
+
+add
+
+Variable.php
+file
+
+
+
+add
+
+Extension
+dir
+
+
+
+add
+
+Definition.php
+file
+
+
+
+add
+

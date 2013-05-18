@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/common/lib/Doctrine/Common/Proxy
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ProxyDefinition.php
+file
+
+
+
+add
+
+AbstractProxyFactory.php
+file
+
+
+
+add
+
+Autoloader.php
+file
+
+
+
+add
+
+Proxy.php
+file
+
+
+
+add
+
+Exception
+dir
+
+
+
+add
+
+ProxyGenerator.php
+file
+
+
+
+add
+

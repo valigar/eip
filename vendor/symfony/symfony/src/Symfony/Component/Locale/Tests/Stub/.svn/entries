@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Tests/Stub
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+StubNumberFormatterTest.php
+file
+
+
+
+add
+
+StubCollatorTest.php
+file
+
+
+
+add
+
+StubLocaleTest.php
+file
+
+
+
+add
+
+StubIntlTest.php
+file
+
+
+
+add
+
+StubIntlDateFormatterTest.php
+file
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authorization/Voter
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+RoleHierarchyVoter.php
+file
+
+
+
+add
+
+VoterInterface.php
+file
+
+
+
+add
+
+RoleVoter.php
+file
+
+
+
+add
+
+AuthenticatedVoter.php
+file
+
+
+
+add
+

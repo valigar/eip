@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/DependencyInjection
+END
+UserBlocNoteExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/DependencyInjection/UserBlocNoteExtension.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/DependencyInjection/Configuration.php
+END

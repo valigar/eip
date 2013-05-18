@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Tests/Generator
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ControllerGeneratorTest.php
+file
+
+
+
+add
+
+DoctrineCrudGeneratorTest.php
+file
+
+
+
+add
+
+BundleGeneratorTest.php
+file
+
+
+
+add
+
+DoctrineFormGeneratorTest.php
+file
+
+
+
+add
+
+GeneratorTest.php
+file
+
+
+
+add
+

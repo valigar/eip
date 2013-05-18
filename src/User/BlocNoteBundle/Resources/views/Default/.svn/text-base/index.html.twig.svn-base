@@ -1,0 +1,14 @@
+L'utilisateur connecté est : {{ user }}
+
+{{ tinymce_init() }}
+
+<form method="post" {{ form_enctype(form) }}>
+
+    {{ form_label(form.noteContent, 'Bloc Note'|trans) }}
+    {{ form_widget(form.noteContent) }}
+
+    <input type="submit" />
+</form>
+
+
+<a href="{{ path('user_blocnote_default_show', { 'id': user }) }}">Visualiser la note</a>

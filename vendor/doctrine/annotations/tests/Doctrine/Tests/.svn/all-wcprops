@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests
+END
+TestInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/TestInit.php
+END
+DoctrineTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/DoctrineTestCase.php
+END

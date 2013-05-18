@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+fallback
+dir
+
+
+
+add
+
+includepath
+dir
+
+
+
+add
+
+Namespaced
+dir
+
+
+
+add
+
+Namespaced2
+dir
+
+
+
+add
+
+Apc
+dir
+
+
+
+add
+
+classmap
+dir
+
+
+
+add
+
+alpha
+dir
+
+
+
+add
+
+ClassesWithParents
+dir
+
+
+
+add
+
+beta
+dir
+
+
+
+add
+
+deps
+dir
+
+
+
+add
+
+Pearlike
+dir
+
+
+
+add
+
+Pearlike2
+dir
+
+
+
+add
+
+php5.4
+dir
+
+
+
+add
+

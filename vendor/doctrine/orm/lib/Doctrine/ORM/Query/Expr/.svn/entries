@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Query/Expr
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Math.php
+file
+
+
+
+add
+
+Andx.php
+file
+
+
+
+add
+
+Base.php
+file
+
+
+
+add
+
+Comparison.php
+file
+
+
+
+add
+
+Func.php
+file
+
+
+
+add
+
+Literal.php
+file
+
+
+
+add
+
+Join.php
+file
+
+
+
+add
+
+Select.php
+file
+
+
+
+add
+
+Composite.php
+file
+
+
+
+add
+
+From.php
+file
+
+
+
+add
+
+OrderBy.php
+file
+
+
+
+add
+
+GroupBy.php
+file
+
+
+
+add
+
+Orx.php
+file
+
+
+
+add
+

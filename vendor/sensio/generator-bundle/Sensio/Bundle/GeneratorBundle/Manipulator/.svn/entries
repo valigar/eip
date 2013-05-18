@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Manipulator
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Manipulator.php
+file
+
+
+
+add
+
+KernelManipulator.php
+file
+
+
+
+add
+
+RoutingManipulator.php
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+YamlFileLoaderTest.php
+file
+
+
+
+add
+
+QtFileLoaderTest.php
+file
+
+
+
+add
+
+PhpFileLoaderTest.php
+file
+
+
+
+add
+
+XliffFileLoaderTest.php
+file
+
+
+
+add
+
+IcuDatFileLoaderTest.php
+file
+
+
+
+add
+
+IcuResFileLoaderTest.php
+file
+
+
+
+add
+
+CsvFileLoaderTest.php
+file
+
+
+
+add
+
+LocalizedTestCase.php
+file
+
+
+
+add
+
+MoFileLoaderTest.php
+file
+
+
+
+add
+
+PoFileLoaderTest.php
+file
+
+
+
+add
+
+IniFileLoaderTest.php
+file
+
+
+
+add
+

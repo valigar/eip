@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Mapping
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ElementMetadataTest.php
+file
+
+
+
+add
+
+GetterMetadataTest.php
+file
+
+
+
+add
+
+Cache
+dir
+
+
+
+add
+
+ClassMetadataFactoryTest.php
+file
+
+
+
+add
+
+Loader
+dir
+
+
+
+add
+
+PropertyMetadataTest.php
+file
+
+
+
+add
+
+ClassMetadataTest.php
+file
+
+
+
+add
+
+MemberMetadataTest.php
+file
+
+
+
+add
+

@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Metadata
+dir
+
+
+
+add
+
+HttpKernel
+dir
+
+
+
+add
+
+DependencyInjection
+dir
+
+
+
+add
+
+Generator
+dir
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.travis.yml
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+JMSDiExtraBundle.php
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Exception
+dir
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+Config
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+Finder
+dir
+
+
+
+add
+
+Annotation
+dir
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+

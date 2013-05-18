@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/Transport/StreamBuffer
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SocketTimeoutTest.php
+file
+
+
+
+add
+
+AbstractStreamBufferAcceptanceTest.php
+file
+
+
+
+add
+
+BasicSocketAcceptanceTest.php
+file
+
+
+
+add
+
+SslSocketAcceptanceTest.php
+file
+
+
+
+add
+
+TlsSocketAcceptanceTest.php
+file
+
+
+
+add
+
+ProcessAcceptanceTest.php
+file
+
+
+
+add
+

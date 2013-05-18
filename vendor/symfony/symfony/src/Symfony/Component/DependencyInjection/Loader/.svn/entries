@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Loader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+YamlFileLoader.php
+file
+
+
+
+add
+
+schema
+dir
+
+
+
+add
+
+PhpFileLoader.php
+file
+
+
+
+add
+
+ClosureLoader.php
+file
+
+
+
+add
+
+FileLoader.php
+file
+
+
+
+add
+
+IniFileLoader.php
+file
+
+
+
+add
+
+XmlFileLoader.php
+file
+
+
+
+add
+

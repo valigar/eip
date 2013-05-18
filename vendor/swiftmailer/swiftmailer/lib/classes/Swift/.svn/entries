@@ -1,0 +1,399 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ByteStream
+dir
+
+
+
+add
+
+EmbeddedFile.php
+file
+
+
+
+add
+
+Encoder
+dir
+
+
+
+add
+
+Plugins
+dir
+
+
+
+add
+
+Transport.php
+file
+
+
+
+add
+
+DependencyException.php
+file
+
+
+
+add
+
+ReplacementFilterFactory.php
+file
+
+
+
+add
+
+OutputByteStream.php
+file
+
+
+
+add
+
+SmtpTransport.php
+file
+
+
+
+add
+
+Mime
+dir
+
+
+
+add
+
+Preferences.php
+file
+
+
+
+add
+
+LoadBalancedTransport.php
+file
+
+
+
+add
+
+Transport
+dir
+
+
+
+add
+
+CharacterReaderFactory.php
+file
+
+
+
+add
+
+SpoolTransport.php
+file
+
+
+
+add
+
+TransportException.php
+file
+
+
+
+add
+
+KeyCache.php
+file
+
+
+
+add
+
+ConfigurableSpool.php
+file
+
+
+
+add
+
+MimePart.php
+file
+
+
+
+add
+
+SignedMessage.php
+file
+
+
+
+add
+
+CharacterReader.php
+file
+
+
+
+add
+
+CharacterReaderFactory
+dir
+
+
+
+add
+
+DependencyContainer.php
+file
+
+
+
+add
+
+Image.php
+file
+
+
+
+add
+
+Message.php
+file
+
+
+
+add
+
+FailoverTransport.php
+file
+
+
+
+add
+
+KeyCache
+dir
+
+
+
+add
+
+Encoding.php
+file
+
+
+
+add
+
+Attachment.php
+file
+
+
+
+add
+
+CharacterReader
+dir
+
+
+
+add
+
+Validate.php
+file
+
+
+
+add
+
+FileStream.php
+file
+
+
+
+add
+
+FileSpool.php
+file
+
+
+
+add
+
+Spool.php
+file
+
+
+
+add
+
+StreamFilters
+dir
+
+
+
+add
+
+MailTransport.php
+file
+
+
+
+add
+
+InputByteStream.php
+file
+
+
+
+add
+
+StreamFilter.php
+file
+
+
+
+add
+
+CharacterStream.php
+file
+
+
+
+add
+
+Mailer.php
+file
+
+
+
+add
+
+Filterable.php
+file
+
+
+
+add
+
+SendmailTransport.php
+file
+
+
+
+add
+
+SwiftException.php
+file
+
+
+
+add
+
+Events
+dir
+
+
+
+add
+
+Encoder.php
+file
+
+
+
+add
+
+CharacterStream
+dir
+
+
+
+add
+
+Mailer
+dir
+
+
+
+add
+
+RfcComplianceException.php
+file
+
+
+
+add
+
+Signers
+dir
+
+
+
+add
+
+MemorySpool.php
+file
+
+
+
+add
+
+IoException.php
+file
+
+
+
+add
+
+NullTransport.php
+file
+
+
+
+add
+
+Signer.php
+file
+
+
+
+add
+

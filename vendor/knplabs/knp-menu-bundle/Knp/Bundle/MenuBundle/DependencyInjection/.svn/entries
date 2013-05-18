@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+KnpMenuExtension.php
+file
+
+
+
+add
+
+Compiler
+dir
+
+
+
+add
+
+Configuration.php
+file
+
+
+
+add
+

@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/actions
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+show.php.twig
+file
+
+
+
+add
+
+delete.php.twig
+file
+
+
+
+add
+
+update.php.twig
+file
+
+
+
+add
+
+create.php.twig
+file
+
+
+
+add
+
+edit.php.twig
+file
+
+
+
+add
+
+index.php.twig
+file
+
+
+
+add
+
+new.php.twig
+file
+
+
+
+add
+

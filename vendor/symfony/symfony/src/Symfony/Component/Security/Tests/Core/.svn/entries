@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Authentication
+dir
+
+
+
+add
+
+Encoder
+dir
+
+
+
+add
+
+Authorization
+dir
+
+
+
+add
+
+Role
+dir
+
+
+
+add
+
+SecurityContextTest.php
+file
+
+
+
+add
+
+Validator
+dir
+
+
+
+add
+
+Util
+dir
+
+
+
+add
+
+User
+dir
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/functions
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+attribute.test
+file
+
+
+
+add
+
+dump_array.test
+file
+
+
+
+add
+
+template_from_string.test
+file
+
+
+
+add
+
+dump.test
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+constant.test
+file
+
+
+
+add
+
+dynamic_function.test
+file
+
+
+
+add
+
+block.test
+file
+
+
+
+add
+
+range.test
+file
+
+
+
+add
+
+date.test
+file
+
+
+
+add
+
+date_namedargs.test
+file
+
+
+
+add
+
+cycle.test
+file
+
+
+
+add
+
+special_chars.test
+file
+
+
+
+add
+

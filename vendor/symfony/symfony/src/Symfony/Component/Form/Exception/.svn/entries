@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+TransformationFailedException.php
+file
+
+
+
+add
+
+InvalidConfigurationException.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+NotValidException.php
+file
+
+
+
+add
+
+StringCastException.php
+file
+
+
+
+add
+
+BadMethodCallException.php
+file
+
+
+
+add
+
+NotInitializedException.php
+file
+
+
+
+add
+
+TypeDefinitionException.php
+file
+
+
+
+add
+
+ExceptionInterface.php
+file
+
+
+
+add
+
+FormException.php
+file
+
+
+
+add
+
+CreationException.php
+file
+
+
+
+add
+
+ErrorMappingException.php
+file
+
+
+
+add
+
+UnexpectedTypeException.php
+file
+
+
+
+add
+
+TypeLoaderException.php
+file
+
+
+
+add
+
+AlreadyBoundException.php
+file
+
+
+
+add
+

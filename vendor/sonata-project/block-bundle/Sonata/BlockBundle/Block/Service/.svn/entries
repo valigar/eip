@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/Service
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+EmptyBlockService.php
+file
+
+
+
+add
+
+TextBlockService.php
+file
+
+
+
+add
+
+RssBlockService.php
+file
+
+
+
+add
+

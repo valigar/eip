@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/docs/en/cookbook
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+entities-in-session.rst
+file
+
+
+
+add
+
+advanced-field-value-conversion-using-custom-mapping-types.rst
+file
+
+
+
+add
+
+validation-of-entities.rst
+file
+
+
+
+add
+
+integrating-with-codeigniter.rst
+file
+
+
+
+add
+
+implementing-the-notify-changetracking-policy.rst
+file
+
+
+
+add
+
+working-with-datetime.rst
+file
+
+
+
+add
+
+strategy-cookbook-introduction.rst
+file
+
+
+
+add
+
+mysql-enums.rst
+file
+
+
+
+add
+
+aggregate-fields.rst
+file
+
+
+
+add
+
+decorator-pattern.rst
+file
+
+
+
+add
+
+implementing-wakeup-or-clone.rst
+file
+
+
+
+add
+
+dql-user-defined-functions.rst
+file
+
+
+
+add
+
+dql-custom-walkers.rst
+file
+
+
+
+add
+
+resolve-target-entity-listener.rst
+file
+
+
+
+add
+
+implementing-arrayaccess-for-domain-objects.rst
+file
+
+
+
+add
+
+sql-table-prefixes.rst
+file
+
+
+
+add
+

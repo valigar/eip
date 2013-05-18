@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Extension
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+PrependExtensionInterface.php
+file
+
+
+
+add
+
+Extension.php
+file
+
+
+
+add
+
+ExtensionInterface.php
+file
+
+
+
+add
+
+ConfigurationExtensionInterface.php
+file
+
+
+
+add
+

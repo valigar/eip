@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Helper
+dir
+
+
+
+add
+
+DelegatingEngine.php
+file
+
+
+
+add
+
+Asset
+dir
+
+
+
+add
+
+TemplateNameParser.php
+file
+
+
+
+add
+
+TemplateReference.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+StreamingEngineInterface.php
+file
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+DebuggerInterface.php
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+TemplateNameParserInterface.php
+file
+
+
+
+add
+
+TemplateReferenceInterface.php
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+PhpEngine.php
+file
+
+
+
+add
+
+Storage
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+Loader
+dir
+
+
+
+add
+
+EngineInterface.php
+file
+
+
+
+add
+

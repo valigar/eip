@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+PlainAuthenticatorTest.php
+file
+
+
+
+add
+
+CramMd5AuthenticatorTest.php
+file
+
+
+
+add
+
+LoginAuthenticatorTest.php
+file
+
+
+
+add
+

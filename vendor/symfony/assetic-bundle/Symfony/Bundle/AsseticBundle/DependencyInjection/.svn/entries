@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/DependencyInjection
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Compiler
+dir
+
+
+
+add
+
+DirectoryResourceDefinition.php
+file
+
+
+
+add
+
+Configuration.php
+file
+
+
+
+add
+
+AsseticExtension.php
+file
+
+
+
+add
+

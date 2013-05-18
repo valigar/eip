@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Functional/app
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Profiler
+dir
+
+
+
+add
+
+Session
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+AppKernel.php
+file
+
+
+
+add
+

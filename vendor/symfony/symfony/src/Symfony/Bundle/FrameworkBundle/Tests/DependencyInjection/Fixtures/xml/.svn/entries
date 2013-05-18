@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/xml
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+deprecated_merge_full.xml
+file
+
+
+
+add
+
+templating_url_package.xml
+file
+
+
+
+add
+
+full.xml
+file
+
+
+
+add
+
+validation_annotations.xml
+file
+
+
+
+add
+
+deprecated_merge_partial.xml
+file
+
+
+
+add
+

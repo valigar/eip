@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+RememberMe
+dir
+
+
+
+add
+
+Token
+dir
+
+
+
+add
+
+AuthenticationManagerInterface.php
+file
+
+
+
+add
+
+AuthenticationTrustResolver.php
+file
+
+
+
+add
+
+AuthenticationTrustResolverInterface.php
+file
+
+
+
+add
+
+Provider
+dir
+
+
+
+add
+
+AuthenticationProviderManager.php
+file
+
+
+
+add
+

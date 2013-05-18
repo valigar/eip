@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+LICENSE
+file
+
+
+
+add
+
+Debug
+dir
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+EventDispatcherInterface.php
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+ContainerAwareEventDispatcher.php
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+GenericEvent.php
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+Event.php
+file
+
+
+
+add
+
+EventSubscriberInterface.php
+file
+
+
+
+add
+
+ImmutableEventDispatcher.php
+file
+
+
+
+add
+
+EventDispatcher.php
+file
+
+
+
+add
+

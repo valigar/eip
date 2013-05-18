@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ArrayKeyCache.php
+file
+
+
+
+add
+
+SimpleKeyCacheInputStream.php
+file
+
+
+
+add
+
+DiskKeyCache.php
+file
+
+
+
+add
+
+NullKeyCache.php
+file
+
+
+
+add
+
+KeyCacheInputStream.php
+file
+
+
+
+add
+

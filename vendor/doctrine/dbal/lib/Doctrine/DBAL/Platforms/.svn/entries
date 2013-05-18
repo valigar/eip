@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+MySqlPlatform.php
+file
+
+
+
+add
+
+OraclePlatform.php
+file
+
+
+
+add
+
+SQLAzurePlatform.php
+file
+
+
+
+add
+
+SQLServerPlatform.php
+file
+
+
+
+add
+
+DB2Platform.php
+file
+
+
+
+add
+
+SQLServer2012Platform.php
+file
+
+
+
+add
+
+Keywords
+dir
+
+
+
+add
+
+SQLServer2005Platform.php
+file
+
+
+
+add
+
+SQLServer2008Platform.php
+file
+
+
+
+add
+
+SqlitePlatform.php
+file
+
+
+
+add
+
+AbstractPlatform.php
+file
+
+
+
+add
+
+DrizzlePlatform.php
+file
+
+
+
+add
+
+PostgreSqlPlatform.php
+file
+
+
+
+add
+

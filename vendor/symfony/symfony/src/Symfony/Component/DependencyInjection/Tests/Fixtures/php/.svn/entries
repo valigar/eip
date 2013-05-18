@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/php
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+simple.php
+file
+
+
+
+add
+
+services8.php
+file
+
+
+
+add
+
+services9.php
+file
+
+
+
+add
+
+services1-1.php
+file
+
+
+
+add
+
+services1.php
+file
+
+
+
+add
+
+services10.php
+file
+
+
+
+add
+
+services11.php
+file
+
+
+
+add
+
+services9_compiled.php
+file
+
+
+
+add
+

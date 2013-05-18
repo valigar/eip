@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/dbal/lib/Doctrine/DBAL
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Event
+dir
+
+
+
+add
+
+Driver.php
+file
+
+
+
+add
+
+Connections
+dir
+
+
+
+add
+
+LockMode.php
+file
+
+
+
+add
+
+SQLParserUtils.php
+file
+
+
+
+add
+
+Connection.php
+file
+
+
+
+add
+
+Logging
+dir
+
+
+
+add
+
+Events.php
+file
+
+
+
+add
+
+Statement.php
+file
+
+
+
+add
+
+Driver
+dir
+
+
+
+add
+
+Id
+dir
+
+
+
+add
+
+Configuration.php
+file
+
+
+
+add
+
+Sharding
+dir
+
+
+
+add
+
+Schema
+dir
+
+
+
+add
+
+Tools
+dir
+
+
+
+add
+
+Portability
+dir
+
+
+
+add
+
+SQLParserUtilsException.php
+file
+
+
+
+add
+
+Cache
+dir
+
+
+
+add
+
+ConnectionException.php
+file
+
+
+
+add
+
+Types
+dir
+
+
+
+add
+
+Query
+dir
+
+
+
+add
+
+Platforms
+dir
+
+
+
+add
+
+DBALException.php
+file
+
+
+
+add
+
+Version.php
+file
+
+
+
+add
+
+DriverManager.php
+file
+
+
+
+add
+
+README.markdown
+file
+
+
+
+add
+

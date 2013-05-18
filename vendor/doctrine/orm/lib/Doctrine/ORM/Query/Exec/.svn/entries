@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Query/Exec
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SingleTableDeleteUpdateExecutor.php
+file
+
+
+
+add
+
+SingleSelectExecutor.php
+file
+
+
+
+add
+
+AbstractSqlExecutor.php
+file
+
+
+
+add
+
+MultiTableDeleteExecutor.php
+file
+
+
+
+add
+
+MultiTableUpdateExecutor.php
+file
+
+
+
+add
+

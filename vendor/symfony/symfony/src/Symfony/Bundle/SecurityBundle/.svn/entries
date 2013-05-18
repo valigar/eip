@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+composer.json
+file
+
+
+
+add
+
+DataCollector
+dir
+
+
+
+add
+
+DependencyInjection
+dir
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+Templating
+dir
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+EventListener
+dir
+
+
+
+add
+
+Security
+dir
+
+
+
+add
+
+SecurityBundle.php
+file
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+Twig
+dir
+
+
+
+add
+
+Command
+dir
+
+
+
+add
+

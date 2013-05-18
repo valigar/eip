@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+test
+dir
+
+
+
+add
+
+package.php
+file
+
+
+
+add
+
+integration.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+map.xml
+file
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+template.html
+file
+
+
+
+add
+

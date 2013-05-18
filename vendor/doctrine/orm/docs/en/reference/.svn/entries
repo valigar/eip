@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/docs/en/reference
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+filters.rst
+file
+
+
+
+add
+
+dql-doctrine-query-language.rst
+file
+
+
+
+add
+
+advanced-configuration.rst
+file
+
+
+
+add
+
+basic-mapping.rst
+file
+
+
+
+add
+
+php-mapping.rst
+file
+
+
+
+add
+
+inheritance-mapping.rst
+file
+
+
+
+add
+
+metadata-drivers.rst
+file
+
+
+
+add
+
+caching.rst
+file
+
+
+
+add
+
+unitofwork-associations.rst
+file
+
+
+
+add
+
+association-mapping.rst
+file
+
+
+
+add
+
+best-practices.rst
+file
+
+
+
+add
+
+improving-performance.rst
+file
+
+
+
+add
+
+working-with-objects.rst
+file
+
+
+
+add
+
+architecture.rst
+file
+
+
+
+add
+
+partial-objects.rst
+file
+
+
+
+add
+
+native-sql.rst
+file
+
+
+
+add
+
+working-with-associations.rst
+file
+
+
+
+add
+
+xml-mapping.rst
+file
+
+
+
+add
+
+query-builder.rst
+file
+
+
+
+add
+
+annotations-reference.rst
+file
+
+
+
+add
+
+change-tracking-policies.rst
+file
+
+
+
+add
+
+batch-processing.rst
+file
+
+
+
+add
+
+yaml-mapping.rst
+file
+
+
+
+add
+
+namingstrategy.rst
+file
+
+
+
+add
+
+limitations-and-known-issues.rst
+file
+
+
+
+add
+
+transactions-and-concurrency.rst
+file
+
+
+
+add
+
+tools.rst
+file
+
+
+
+add
+
+installation.rst
+file
+
+
+
+add
+
+events.rst
+file
+
+
+
+add
+
+unitofwork.rst
+file
+
+
+
+add
+
+configuration.rst
+file
+
+
+
+add
+
+faq.rst
+file
+
+
+
+add
+

@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/inheritance
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+conditional.test
+file
+
+
+
+add
+
+parent_without_extends.test
+file
+
+
+
+add
+
+parent_without_extends_but_traits.test
+file
+
+
+
+add
+
+parent_isolation.test
+file
+
+
+
+add
+
+nested_blocks.test
+file
+
+
+
+add
+
+basic.test
+file
+
+
+
+add
+
+dynamic.test
+file
+
+
+
+add
+
+parent_in_a_block.test
+file
+
+
+
+add
+
+parent.test
+file
+
+
+
+add
+
+nested_blocks_parent_only.test
+file
+
+
+
+add
+
+parent_nested.test
+file
+
+
+
+add
+
+nested_inheritance.test
+file
+
+
+
+add
+
+multiple.test
+file
+
+
+
+add
+
+extends_as_array.test
+file
+
+
+
+add
+
+use.test
+file
+
+
+
+add
+
+parent_change.test
+file
+
+
+
+add
+
+empty.test
+file
+
+
+
+add
+
+template_instance.test
+file
+
+
+
+add
+

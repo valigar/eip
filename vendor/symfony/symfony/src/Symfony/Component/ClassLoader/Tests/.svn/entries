@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ApcUniversalClassLoaderTest.php
+file
+
+
+
+add
+
+ClassMapGeneratorTest.php
+file
+
+
+
+add
+
+ClassLoaderTest.php
+file
+
+
+
+add
+
+DebugClassLoaderTest.php
+file
+
+
+
+add
+
+Fixtures
+dir
+
+
+
+add
+
+UniversalClassLoaderTest.php
+file
+
+
+
+add
+
+ClassCollectionLoaderTest.php
+file
+
+
+
+add
+

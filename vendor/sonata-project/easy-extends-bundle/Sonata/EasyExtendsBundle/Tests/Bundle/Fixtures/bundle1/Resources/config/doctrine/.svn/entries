@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Block.mongodb.xml.skeleton
+file
+
+
+
+add
+
+Block.mongodb.yml.skeleton
+file
+
+
+
+add
+
+Page.mongodb.xml.skeleton
+file
+
+
+
+add
+
+Page.mongodb.yml.skeleton
+file
+
+
+
+add
+
+Block.phpcr.xml.skeleton
+file
+
+
+
+add
+
+Block.orm.xml.skeleton
+file
+
+
+
+add
+
+Block.phpcr.yml.skeleton
+file
+
+
+
+add
+
+Block.orm.yml.skeleton
+file
+
+
+
+add
+
+Page.phpcr.xml.skeleton
+file
+
+
+
+add
+
+Page.orm.xml.skeleton
+file
+
+
+
+add
+
+Page.phpcr.yml.skeleton
+file
+
+
+
+add
+
+Page.orm.yml.skeleton
+file
+
+
+
+add
+

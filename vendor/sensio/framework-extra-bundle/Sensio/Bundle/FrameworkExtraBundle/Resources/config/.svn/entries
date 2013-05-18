@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sensio/framework-extra-bundle/Sensio/Bundle/FrameworkExtraBundle/Resources/config
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+cache.xml
+file
+
+
+
+add
+
+services.xml
+file
+
+
+
+add
+
+routing.xml
+file
+
+
+
+add
+
+converters.xml
+file
+
+
+
+add
+
+view.xml
+file
+
+
+
+add
+
+annotations.xml
+file
+
+
+
+add
+

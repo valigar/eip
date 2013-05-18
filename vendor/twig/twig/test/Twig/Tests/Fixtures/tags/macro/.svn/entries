@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/macro
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+basic.test
+file
+
+
+
+add
+
+external.test
+file
+
+
+
+add
+
+from.test
+file
+
+
+
+add
+
+self_import.test
+file
+
+
+
+add
+
+endmacro_name.test
+file
+
+
+
+add
+
+global.test
+file
+
+
+
+add
+
+special_chars.test
+file
+
+
+
+add
+

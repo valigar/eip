@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+ByteStream
+dir
+
+
+
+add
+
+Encoder
+dir
+
+
+
+add
+
+MessageAcceptanceTest.php
+file
+
+
+
+add
+
+EncodingAcceptanceTest.php
+file
+
+
+
+add
+
+AttachmentAcceptanceTest.php
+file
+
+
+
+add
+
+EmbeddedFileAcceptanceTest.php
+file
+
+
+
+add
+
+CharacterReaderFactory
+dir
+
+
+
+add
+
+Mime
+dir
+
+
+
+add
+
+MimePartAcceptanceTest.php
+file
+
+
+
+add
+
+KeyCache
+dir
+
+
+
+add
+
+Transport
+dir
+
+
+
+add
+
+DependencyContainerAcceptanceTest.php
+file
+
+
+
+add
+

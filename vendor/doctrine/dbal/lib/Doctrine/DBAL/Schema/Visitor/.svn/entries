@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Visitor
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SchemaDiffVisitor.php
+file
+
+
+
+add
+
+Graphviz.php
+file
+
+
+
+add
+
+CreateSchemaSqlCollector.php
+file
+
+
+
+add
+
+DropSchemaSqlCollector.php
+file
+
+
+
+add
+
+Visitor.php
+file
+
+
+
+add
+
+RemoveNamespacedAssets.php
+file
+
+
+
+add
+
+AbstractVisitor.php
+file
+
+
+
+add
+

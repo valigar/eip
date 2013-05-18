@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Mapping
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+DisconnectedMetadataFactory.php
+file
+
+
+
+add
+
+ClassMetadataCollection.php
+file
+
+
+
+add
+
+MetadataFactory.php
+file
+
+
+
+add
+

@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+BandwidthMonitorPlugin.php
+file
+
+
+
+add
+
+Decorator
+dir
+
+
+
+add
+
+LoggerPlugin.php
+file
+
+
+
+add
+
+AntiFloodPlugin.php
+file
+
+
+
+add
+
+Reporters
+dir
+
+
+
+add
+
+Sleeper.php
+file
+
+
+
+add
+
+DecoratorPlugin.php
+file
+
+
+
+add
+
+Reporter.php
+file
+
+
+
+add
+
+PopBeforeSmtpPlugin.php
+file
+
+
+
+add
+
+ImpersonatePlugin.php
+file
+
+
+
+add
+
+ThrottlerPlugin.php
+file
+
+
+
+add
+
+Pop
+dir
+
+
+
+add
+
+Loggers
+dir
+
+
+
+add
+
+RedirectingPlugin.php
+file
+
+
+
+add
+
+Logger.php
+file
+
+
+
+add
+
+Timer.php
+file
+
+
+
+add
+
+ReporterPlugin.php
+file
+
+
+
+add
+
+MessageLogger.php
+file
+
+
+
+add
+

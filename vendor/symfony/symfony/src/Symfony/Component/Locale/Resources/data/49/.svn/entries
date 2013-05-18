@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Resources/data/49
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+lang
+dir
+
+
+
+add
+
+locales
+dir
+
+
+
+add
+
+names
+dir
+
+
+
+add
+
+region
+dir
+
+
+
+add
+
+stub
+dir
+
+
+
+add
+
+svn-info.txt
+file
+
+
+
+add
+

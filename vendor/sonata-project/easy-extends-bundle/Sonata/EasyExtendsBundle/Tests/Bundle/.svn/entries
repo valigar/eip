@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+BundleMetadataTest.php
+file
+
+
+
+add
+
+PhpcrMetadataTest.php
+file
+
+
+
+add
+
+OrmMetadataTest.php
+file
+
+
+
+add
+
+OdmMetadataTest.php
+file
+
+
+
+add
+
+Fixtures
+dir
+
+
+
+add
+

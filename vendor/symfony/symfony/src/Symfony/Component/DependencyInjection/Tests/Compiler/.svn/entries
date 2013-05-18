@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Compiler
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+CheckReferenceValidityPassTest.php
+file
+
+
+
+add
+
+ReplaceAliasByActualDefinitionPassTest.php
+file
+
+
+
+add
+
+CheckCircularReferencesPassTest.php
+file
+
+
+
+add
+
+AnalyzeServiceReferencesPassTest.php
+file
+
+
+
+add
+
+ResolveReferencesToAliasesPassTest.php
+file
+
+
+
+add
+
+ResolveDefinitionTemplatesPassTest.php
+file
+
+
+
+add
+
+ResolveInvalidReferencesPassTest.php
+file
+
+
+
+add
+
+InlineServiceDefinitionsPassTest.php
+file
+
+
+
+add
+
+CheckDefinitionValidityPassTest.php
+file
+
+
+
+add
+
+IntegrationTest.php
+file
+
+
+
+add
+
+RemoveUnusedDefinitionsPassTest.php
+file
+
+
+
+add
+
+CheckExceptionOnInvalidReferenceBehaviorPassTest.php
+file
+
+
+
+add
+

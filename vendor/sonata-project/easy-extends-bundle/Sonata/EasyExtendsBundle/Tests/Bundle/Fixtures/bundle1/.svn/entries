@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SymfonyNotExtendableBundle.php
+file
+
+
+
+add
+
+SonataNotExtendableBundle.php
+file
+
+
+
+add
+
+AcmeBundle.php
+file
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+SonataAcmeBundle.php
+file
+
+
+
+add
+
+Entity
+dir
+
+
+
+add
+
+LongNamespaceBundle.php
+file
+
+
+
+add
+
+PHPCR
+dir
+
+
+
+add
+
+Document
+dir
+
+
+
+add
+

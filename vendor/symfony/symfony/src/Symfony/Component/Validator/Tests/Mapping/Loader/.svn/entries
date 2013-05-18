@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Mapping/Loader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+FilesLoaderTest.php
+file
+
+
+
+add
+
+LoaderChainTest.php
+file
+
+
+
+add
+
+YamlFileLoaderTest.php
+file
+
+
+
+add
+
+withdoctype.xml
+file
+
+
+
+add
+
+nonvalid-mapping.yml
+file
+
+
+
+add
+
+StaticMethodLoaderTest.php
+file
+
+
+
+add
+
+AnnotationLoaderTest.php
+file
+
+
+
+add
+
+empty-mapping.yml
+file
+
+
+
+add
+
+constraint-mapping.xml
+file
+
+
+
+add
+
+constraint-mapping.yml
+file
+
+
+
+add
+
+XmlFileLoaderTest.php
+file
+
+
+
+add
+

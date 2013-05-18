@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+BlockContextManager.php
+file
+
+
+
+add
+
+BlockServiceInterface.php
+file
+
+
+
+add
+
+BlockContext.php
+file
+
+
+
+add
+
+BlockRendererInterface.php
+file
+
+
+
+add
+
+BlockLoaderInterface.php
+file
+
+
+
+add
+
+BlockServiceManager.php
+file
+
+
+
+add
+
+BaseBlockService.php
+file
+
+
+
+add
+
+Service
+dir
+
+
+
+add
+
+BlockContextManagerInterface.php
+file
+
+
+
+add
+
+Loader
+dir
+
+
+
+add
+
+BlockContextInterface.php
+file
+
+
+
+add
+
+BlockRenderer.php
+file
+
+
+
+add
+
+TraceableBlockRenderer.php
+file
+
+
+
+add
+
+BlockLoaderChain.php
+file
+
+
+
+add
+
+BlockServiceManagerInterface.php
+file
+
+
+
+add
+

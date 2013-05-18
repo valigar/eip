@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+DoctrineAclCacheTest.php
+file
+
+
+
+add
+
+AclTest.php
+file
+
+
+
+add
+
+ObjectIdentityTest.php
+file
+
+
+
+add
+
+UserSecurityIdentityTest.php
+file
+
+
+
+add
+
+EntryTest.php
+file
+
+
+
+add
+
+ObjectIdentityRetrievalStrategyTest.php
+file
+
+
+
+add
+
+SecurityIdentityRetrievalStrategyTest.php
+file
+
+
+
+add
+
+RoleSecurityIdentityTest.php
+file
+
+
+
+add
+
+FieldEntryTest.php
+file
+
+
+
+add
+
+PermissionGrantingStrategyTest.php
+file
+
+
+
+add
+
+AuditLoggerTest.php
+file
+
+
+
+add
+

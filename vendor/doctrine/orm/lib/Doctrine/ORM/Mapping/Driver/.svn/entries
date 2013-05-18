@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+StaticPHPDriver.php
+file
+
+
+
+add
+
+XmlDriver.php
+file
+
+
+
+add
+
+DriverChain.php
+file
+
+
+
+add
+
+YamlDriver.php
+file
+
+
+
+add
+
+DatabaseDriver.php
+file
+
+
+
+add
+
+SimplifiedXmlDriver.php
+file
+
+
+
+add
+
+PHPDriver.php
+file
+
+
+
+add
+
+SimplifiedYamlDriver.php
+file
+
+
+
+add
+
+DoctrineAnnotations.php
+file
+
+
+
+add
+
+AnnotationDriver.php
+file
+
+
+
+add
+

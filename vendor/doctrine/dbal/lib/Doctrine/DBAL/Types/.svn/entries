@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SimpleArrayType.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+GuidType.php
+file
+
+
+
+add
+
+DateTimeType.php
+file
+
+
+
+add
+
+IntegerType.php
+file
+
+
+
+add
+
+DecimalType.php
+file
+
+
+
+add
+
+TimeType.php
+file
+
+
+
+add
+
+ConversionException.php
+file
+
+
+
+add
+
+FloatType.php
+file
+
+
+
+add
+
+VarDateTimeType.php
+file
+
+
+
+add
+
+ObjectType.php
+file
+
+
+
+add
+
+StringType.php
+file
+
+
+
+add
+
+JsonArrayType.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+DateTimeTzType.php
+file
+
+
+
+add
+
+BigIntType.php
+file
+
+
+
+add
+
+DateType.php
+file
+
+
+
+add
+
+BlobType.php
+file
+
+
+
+add
+
+ArrayType.php
+file
+
+
+
+add
+
+BooleanType.php
+file
+
+
+
+add
+
+Type.php
+file
+
+
+
+add
+
+SmallIntType.php
+file
+
+
+
+add
+
+TextType.php
+file
+
+
+
+add
+

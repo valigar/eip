@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Role
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+RoleHierarchy.php
+file
+
+
+
+add
+
+Role.php
+file
+
+
+
+add
+
+RoleHierarchyInterface.php
+file
+
+
+
+add
+
+RoleInterface.php
+file
+
+
+
+add
+
+SwitchUserRole.php
+file
+
+
+
+add
+

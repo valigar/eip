@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources/config
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+security_acl.xml
+file
+
+
+
+add
+
+security.xml
+file
+
+
+
+add
+
+security_rememberme.xml
+file
+
+
+
+add
+
+security_acl_dbal.xml
+file
+
+
+
+add
+
+collectors.xml
+file
+
+
+
+add
+
+templating_php.xml
+file
+
+
+
+add
+
+templating_twig.xml
+file
+
+
+
+add
+
+security_listeners.xml
+file
+
+
+
+add
+

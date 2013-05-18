@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/doctrine-extensions
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+composer.json
+file
+
+
+
+add
+
+autoload.php.dist
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+

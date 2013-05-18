@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+merge_import.php
+file
+
+
+
+add
+
+merge.php
+file
+
+
+
+add
+
+container1.php
+file
+
+
+
+add
+
+custom_acl_provider.php
+file
+
+
+
+add
+

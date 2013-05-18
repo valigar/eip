@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+IpUtils.php
+file
+
+
+
+add
+
+FileBag.php
+file
+
+
+
+add
+
+File
+dir
+
+
+
+add
+
+ParameterBag.php
+file
+
+
+
+add
+
+ApacheRequest.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+RequestMatcher.php
+file
+
+
+
+add
+
+Session
+dir
+
+
+
+add
+
+Response.php
+file
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+HeaderBag.php
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+BinaryFileResponse.php
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+AcceptHeader.php
+file
+
+
+
+add
+
+Cookie.php
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+RequestMatcherInterface.php
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+RedirectResponse.php
+file
+
+
+
+add
+
+ServerBag.php
+file
+
+
+
+add
+
+ResponseHeaderBag.php
+file
+
+
+
+add
+
+StreamedResponse.php
+file
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+AcceptHeaderItem.php
+file
+
+
+
+add
+
+JsonResponse.php
+file
+
+
+
+add
+
+Request.php
+file
+
+
+
+add
+

@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+Logger
+dir
+
+
+
+add
+
+DataCollector
+dir
+
+
+
+add
+
+DependencyInjection
+dir
+
+
+
+add
+
+bootstrap.php
+file
+
+
+
+add
+
+DataFixtures
+dir
+
+
+
+add
+
+Form
+dir
+
+
+
+add
+
+ContainerAwareEventManagerTest.php
+file
+
+
+
+add
+
+Validator
+dir
+
+
+
+add
+
+HttpFoundation
+dir
+
+
+
+add
+
+DoctrineOrmTestCase.php
+file
+
+
+
+add
+
+Security
+dir
+
+
+
+add
+
+Fixtures
+dir
+
+
+
+add
+

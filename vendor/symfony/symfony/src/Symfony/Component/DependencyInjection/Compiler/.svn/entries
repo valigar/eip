@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Compiler
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+CheckReferenceValidityPass.php
+file
+
+
+
+add
+
+CheckCircularReferencesPass.php
+file
+
+
+
+add
+
+PassConfig.php
+file
+
+
+
+add
+
+ResolveParameterPlaceHoldersPass.php
+file
+
+
+
+add
+
+ResolveDefinitionTemplatesPass.php
+file
+
+
+
+add
+
+ServiceReferenceGraph.php
+file
+
+
+
+add
+
+RemoveUnusedDefinitionsPass.php
+file
+
+
+
+add
+
+RemoveAbstractDefinitionsPass.php
+file
+
+
+
+add
+
+ServiceReferenceGraphNode.php
+file
+
+
+
+add
+
+LoggingFormatter.php
+file
+
+
+
+add
+
+Compiler.php
+file
+
+
+
+add
+
+ReplaceAliasByActualDefinitionPass.php
+file
+
+
+
+add
+
+MergeExtensionConfigurationPass.php
+file
+
+
+
+add
+
+RepeatablePassInterface.php
+file
+
+
+
+add
+
+AnalyzeServiceReferencesPass.php
+file
+
+
+
+add
+
+ResolveReferencesToAliasesPass.php
+file
+
+
+
+add
+
+ResolveInvalidReferencesPass.php
+file
+
+
+
+add
+
+RepeatedPass.php
+file
+
+
+
+add
+
+RemovePrivateAliasesPass.php
+file
+
+
+
+add
+
+InlineServiceDefinitionsPass.php
+file
+
+
+
+add
+
+CompilerPassInterface.php
+file
+
+
+
+add
+
+CheckDefinitionValidityPass.php
+file
+
+
+
+add
+
+CheckExceptionOnInvalidReferenceBehaviorPass.php
+file
+
+
+
+add
+
+ServiceReferenceGraphEdge.php
+file
+
+
+
+add
+

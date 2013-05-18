@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+MemcachedCache.php
+file
+
+
+
+add
+
+RedisCache.php
+file
+
+
+
+add
+
+PhpFileCache.php
+file
+
+
+
+add
+
+CacheProvider.php
+file
+
+
+
+add
+
+ZendDataCache.php
+file
+
+
+
+add
+
+XcacheCache.php
+file
+
+
+
+add
+
+CouchbaseCache.php
+file
+
+
+
+add
+
+ArrayCache.php
+file
+
+
+
+add
+
+Cache.php
+file
+
+
+
+add
+
+FileCache.php
+file
+
+
+
+add
+
+WinCacheCache.php
+file
+
+
+
+add
+
+MemcacheCache.php
+file
+
+
+
+add
+
+ApcCache.php
+file
+
+
+
+add
+
+FilesystemCache.php
+file
+
+
+
+add
+

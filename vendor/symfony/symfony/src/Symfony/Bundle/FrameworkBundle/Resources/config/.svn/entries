@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+form_csrf.xml
+file
+
+
+
+add
+
+esi.xml
+file
+
+
+
+add
+
+session.xml
+file
+
+
+
+add
+
+services.xml
+file
+
+
+
+add
+
+validator.xml
+file
+
+
+
+add
+
+debug.xml
+file
+
+
+
+add
+
+routing.xml
+file
+
+
+
+add
+
+profiling.xml
+file
+
+
+
+add
+
+fragment_renderer.xml
+file
+
+
+
+add
+
+annotations.xml
+file
+
+
+
+add
+
+translation.xml
+file
+
+
+
+add
+
+schema
+dir
+
+
+
+add
+
+form.xml
+file
+
+
+
+add
+
+templating.xml
+file
+
+
+
+add
+
+router.php
+file
+
+
+
+add
+
+fragment_listener.xml
+file
+
+
+
+add
+
+collectors.xml
+file
+
+
+
+add
+
+templating_debug.xml
+file
+
+
+
+add
+
+templating_php.xml
+file
+
+
+
+add
+
+web.xml
+file
+
+
+
+add
+
+test.xml
+file
+
+
+
+add
+

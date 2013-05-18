@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Template.php
+END
+AnnotWithDefaultValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/AnnotWithDefaultValue.php
+END
+Route.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Route.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Version.php
+END
+Secure.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Secure.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/Annotation/Autoload.php
+END

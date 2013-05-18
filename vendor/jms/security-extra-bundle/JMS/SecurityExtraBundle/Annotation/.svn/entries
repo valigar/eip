@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SatisfiesParentSecurityPolicy.php
+file
+
+
+
+add
+
+PreAuthorize.php
+file
+
+
+
+add
+
+Secure.php
+file
+
+
+
+add
+
+SecureReturn.php
+file
+
+
+
+add
+
+SecureParam.php
+file
+
+
+
+add
+
+RunAs.php
+file
+
+
+
+add
+

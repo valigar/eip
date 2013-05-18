@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/cg/src/CG/Proxy
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+InterceptionGenerator.php
+file
+
+
+
+add
+
+LazyInitializerGenerator.php
+file
+
+
+
+add
+
+MethodInvocation.php
+file
+
+
+
+add
+
+MethodInterceptorInterface.php
+file
+
+
+
+add
+
+Enhancer.php
+file
+
+
+
+add
+
+LazyInitializerInterface.php
+file
+
+
+
+add
+
+RegexInterceptionLoader.php
+file
+
+
+
+add
+
+InterceptorLoaderInterface.php
+file
+
+
+
+add
+
+GeneratorInterface.php
+file
+
+
+
+add
+

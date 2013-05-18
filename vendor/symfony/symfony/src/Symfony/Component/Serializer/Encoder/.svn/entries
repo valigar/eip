@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Encoder
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+JsonEncoder.php
+file
+
+
+
+add
+
+SerializerAwareEncoder.php
+file
+
+
+
+add
+
+JsonDecode.php
+file
+
+
+
+add
+
+EncoderInterface.php
+file
+
+
+
+add
+
+XmlEncoder.php
+file
+
+
+
+add
+
+ChainEncoder.php
+file
+
+
+
+add
+
+DecoderInterface.php
+file
+
+
+
+add
+
+JsonEncode.php
+file
+
+
+
+add
+
+NormalizationAwareInterface.php
+file
+
+
+
+add
+
+ChainDecoder.php
+file
+
+
+
+add
+

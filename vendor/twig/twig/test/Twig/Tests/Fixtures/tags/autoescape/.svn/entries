@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/autoescape
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+basic.test
+file
+
+
+
+add
+
+type.test
+file
+
+
+
+add
+
+nested.test
+file
+
+
+
+add
+
+strategy.test
+file
+
+
+
+add
+
+double_escaping.test
+file
+
+
+
+add
+
+with_filters.test
+file
+
+
+
+add
+
+functions.test
+file
+
+
+
+add
+
+with_filters_arguments.test
+file
+
+
+
+add
+
+objects.test
+file
+
+
+
+add
+
+raw.test
+file
+
+
+
+add
+
+with_pre_escape_filters.test
+file
+
+
+
+add
+
+literal.test
+file
+
+
+
+add
+
+with_preserves_safety_filters.test
+file
+
+
+
+add
+
+blocks.test
+file
+
+
+
+add
+

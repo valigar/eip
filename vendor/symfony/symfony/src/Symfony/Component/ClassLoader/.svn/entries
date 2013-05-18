@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+MapClassLoader.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+DebugUniversalClassLoader.php
+file
+
+
+
+add
+
+ClassLoader.php
+file
+
+
+
+add
+
+CHANGELOG.md
+file
+
+
+
+add
+
+phpunit.xml.dist
+file
+
+
+
+add
+
+DebugClassLoader.php
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+ClassCollectionLoader.php
+file
+
+
+
+add
+
+XcacheClassLoader.php
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+ApcUniversalClassLoader.php
+file
+
+
+
+add
+
+ClassMapGenerator.php
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+ApcClassLoader.php
+file
+
+
+
+add
+
+UniversalClassLoader.php
+file
+
+
+
+add
+

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/for
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+inner_variables.test
+file
+
+
+
+add
+
+recursive.test
+file
+
+
+
+add
+
+loop_not_defined.test
+file
+
+
+
+add
+
+loop_not_defined_cond.test
+file
+
+
+
+add
+
+keys.test
+file
+
+
+
+add
+
+keys_and_values.test
+file
+
+
+
+add
+
+loop_context.test
+file
+
+
+
+add
+
+context.test
+file
+
+
+
+add
+
+objects_countable.test
+file
+
+
+
+add
+
+condition.test
+file
+
+
+
+add
+
+loop_context_local.test
+file
+
+
+
+add
+
+else.test
+file
+
+
+
+add
+
+objects.test
+file
+
+
+
+add
+
+nested_else.test
+file
+
+
+
+add
+
+values.test
+file
+
+
+
+add
+

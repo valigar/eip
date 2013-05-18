@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/common/tests/Doctrine/Tests/Common/Proxy
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+LazyLoadableObject.php
+file
+
+
+
+add
+
+AbstractProxyFactoryTest.php
+file
+
+
+
+add
+
+SleepClass.php
+file
+
+
+
+add
+
+ProxyLogicTest.php
+file
+
+
+
+add
+
+MagicSleepClass.php
+file
+
+
+
+add
+
+AutoloaderTest.php
+file
+
+
+
+add
+
+InvalidTypeHintClass.php
+file
+
+
+
+add
+
+ProxyMagicMethodsTest.php
+file
+
+
+
+add
+
+MagicGetClass.php
+file
+
+
+
+add
+
+CallableTypeHintClass.php
+file
+
+
+
+add
+
+ProxyClassGeneratorTest.php
+file
+
+
+
+add
+
+MagicIssetClass.php
+file
+
+
+
+add
+
+LazyLoadableObjectClassMetadata.php
+file
+
+
+
+add
+
+MagicSetClass.php
+file
+
+
+
+add
+
+MagicWakeupClass.php
+file
+
+
+
+add
+
+MagicCloneClass.php
+file
+
+
+
+add
+

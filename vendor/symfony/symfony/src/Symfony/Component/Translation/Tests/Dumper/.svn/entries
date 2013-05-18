@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+PoFileDumperTest.php
+file
+
+
+
+add
+
+IniFileDumperTest.php
+file
+
+
+
+add
+
+YamlFileDumperTest.php
+file
+
+
+
+add
+
+QtFileDumperTest.php
+file
+
+
+
+add
+
+PhpFileDumperTest.php
+file
+
+
+
+add
+
+XliffFileDumperTest.php
+file
+
+
+
+add
+
+IcuResFileDumperTest.php
+file
+
+
+
+add
+
+CsvFileDumperTest.php
+file
+
+
+
+add
+
+MoFileDumperTest.php
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Tests/Fixtures
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+SubService.php
+file
+
+
+
+add
+
+CorrectSubService.php
+file
+
+
+
+add
+
+Annotation
+dir
+
+
+
+add
+
+AbstractMethodNotDirectlyOverwrittenInDirectChildService.php
+file
+
+
+
+add
+
+MainService.php
+file
+
+
+
+add
+
+ComplexService.php
+file
+
+
+
+add
+

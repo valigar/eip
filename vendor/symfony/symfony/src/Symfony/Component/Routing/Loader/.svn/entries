@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Loader
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+YamlFileLoader.php
+file
+
+
+
+add
+
+schema
+dir
+
+
+
+add
+
+PhpFileLoader.php
+file
+
+
+
+add
+
+AnnotationFileLoader.php
+file
+
+
+
+add
+
+ClosureLoader.php
+file
+
+
+
+add
+
+AnnotationDirectoryLoader.php
+file
+
+
+
+add
+
+AnnotationClassLoader.php
+file
+
+
+
+add
+
+XmlFileLoader.php
+file
+
+
+
+add
+

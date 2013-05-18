@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Exception
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+InvalidConfigurationException.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+InvalidDefinitionException.php
+file
+
+
+
+add
+
+DuplicateKeyException.php
+file
+
+
+
+add
+
+ForbiddenOverwriteException.php
+file
+
+
+
+add
+
+UnsetKeyException.php
+file
+
+
+
+add
+
+InvalidTypeException.php
+file
+
+
+
+add
+

@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+AssociationEntity.php
+file
+
+
+
+add
+
+ContainerAwareFixture.php
+file
+
+
+
+add
+
+NoToStringSingleIdentEntity.php
+file
+
+
+
+add
+
+SingleStringIdentEntity.php
+file
+
+
+
+add
+
+CompositeStringIdentEntity.php
+file
+
+
+
+add
+
+DoubleIdentEntity.php
+file
+
+
+
+add
+
+SingleIdentEntity.php
+file
+
+
+
+add
+
+CompositeIdentEntity.php
+file
+
+
+
+add
+
+ItemGroupEntity.php
+file
+
+
+
+add
+

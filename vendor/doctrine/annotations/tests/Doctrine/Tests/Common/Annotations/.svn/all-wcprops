@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations
+END
+CachedReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/CachedReaderTest.php
+END
+AnnotationReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/AnnotationReaderTest.php
+END
+PerformanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/PerformanceTest.php
+END
+DummyClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/DummyClass.php
+END
+DocParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/DocParserTest.php
+END
+PhpParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/PhpParserTest.php
+END
+TopLevelAnnotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/TopLevelAnnotation.php
+END
+DocLexerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/DocLexerTest.php
+END
+AbstractReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/AbstractReaderTest.php
+END
+FileCacheReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/FileCacheReaderTest.php
+END
+SimpleAnnotationReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7/trunk/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/SimpleAnnotationReaderTest.php
+END

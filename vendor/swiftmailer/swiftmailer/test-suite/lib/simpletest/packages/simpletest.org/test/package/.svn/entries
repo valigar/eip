@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org/test/package
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+content_without_section.xml
+file
+
+
+
+add
+
+one_section_with_php_code.xml
+file
+
+
+
+add
+
+en
+dir
+
+
+
+add
+
+one_section_with_autorum_php.xml
+file
+
+
+
+add
+
+here_unit-tester.xml
+file
+
+
+
+add
+
+fr
+dir
+
+
+
+add
+
+one_section_milestoned.xml
+file
+
+
+
+add
+
+here_overview.xml
+file
+
+
+
+add
+
+here_download.xml
+file
+
+
+
+add
+
+here_simpletest.xml
+file
+
+
+
+add
+
+one_section_changelogged.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+here_start_testing.xml
+file
+
+
+
+add
+
+map.xml
+file
+
+
+
+add
+
+here_support.xml
+file
+
+
+
+add
+

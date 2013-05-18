@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+EmbeddedFile.php
+file
+
+
+
+add
+
+SimpleHeaderFactory.php
+file
+
+
+
+add
+
+EncodingObserver.php
+file
+
+
+
+add
+
+SimpleMessage.php
+file
+
+
+
+add
+
+SimpleMimeEntity.php
+file
+
+
+
+add
+
+CharsetObserver.php
+file
+
+
+
+add
+
+HeaderEncoder
+dir
+
+
+
+add
+
+HeaderSet.php
+file
+
+
+
+add
+
+ParameterizedHeader.php
+file
+
+
+
+add
+
+ContentEncoder.php
+file
+
+
+
+add
+
+MimePart.php
+file
+
+
+
+add
+
+SimpleHeaderSet.php
+file
+
+
+
+add
+
+HeaderFactory.php
+file
+
+
+
+add
+
+MimeEntity.php
+file
+
+
+
+add
+
+Message.php
+file
+
+
+
+add
+
+ContentEncoder
+dir
+
+
+
+add
+
+Headers
+dir
+
+
+
+add
+
+Grammar.php
+file
+
+
+
+add
+
+HeaderEncoder.php
+file
+
+
+
+add
+
+Header.php
+file
+
+
+
+add
+
+Attachment.php
+file
+
+
+
+add
+

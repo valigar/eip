@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+README.git
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+VERSION
+file
+
+
+
+add
+
+package.xml.tpl
+file
+
+
+
+add
+
+notes
+dir
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+build.xml
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+doc
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+test-suite
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+CHANGES
+file
+
+
+
+add
+
+create_pear_package.php
+file
+
+
+
+add
+

@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters
+https://eip-community-site.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+JoinedSubclassPersister.php
+file
+
+
+
+add
+
+UnionSubclassPersister.php
+file
+
+
+
+add
+
+OneToManyPersister.php
+file
+
+
+
+add
+
+SingleTablePersister.php
+file
+
+
+
+add
+
+AbstractEntityInheritancePersister.php
+file
+
+
+
+add
+
+SqlValueVisitor.php
+file
+
+
+
+add
+
+ManyToManyPersister.php
+file
+
+
+
+add
+
+BasicEntityPersister.php
+file
+
+
+
+add
+
+PersisterException.php
+file
+
+
+
+add
+
+SqlExpressionVisitor.php
+file
+
+
+
+add
+
+AbstractCollectionPersister.php
+file
+
+
+
+add
+
+ElementCollectionPersister.php
+file
+
+
+
+add
+
