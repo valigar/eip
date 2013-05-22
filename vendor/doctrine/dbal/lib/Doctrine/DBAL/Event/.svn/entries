@@ -1,119 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-SchemaCreateTableColumnEventArgs.php
-file
-
-
-
-add
-
-SchemaAlterTableRemoveColumnEventArgs.php
-file
-
-
-
-add
-
-SchemaCreateTableEventArgs.php
-file
-
-
-
-add
-
-SchemaDropTableEventArgs.php
-file
-
-
-
-add
-
-ConnectionEventArgs.php
-file
-
-
-
-add
-
-SchemaAlterTableEventArgs.php
-file
-
-
-
-add
-
-SchemaEventArgs.php
-file
-
-
-
-add
-
-SchemaIndexDefinitionEventArgs.php
-file
-
-
-
-add
-
-Listeners
-dir
-
-
-
-add
-
-SchemaAlterTableChangeColumnEventArgs.php
-file
-
-
-
-add
-
-SchemaAlterTableRenameColumnEventArgs.php
-file
-
-
-
-add
-
-SchemaAlterTableAddColumnEventArgs.php
-file
-
-
-
-add
-
-SchemaColumnDefinitionEventArgs.php
-file
-
-
-
-add
-

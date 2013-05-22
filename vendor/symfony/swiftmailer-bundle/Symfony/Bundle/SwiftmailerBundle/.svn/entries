@@ -1,105 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-composer.json
-file
-
-
-
-add
-
-DependencyInjection
-dir
-
-
-
-add
-
-LICENSE
-file
-
-
-
-add
-
-Tests
-dir
-
-
-
-add
-
-.gitignore
-file
-
-
-
-add
-
-.travis.yml
-file
-
-
-
-add
-
-SwiftmailerBundle.php
-file
-
-
-
-add
-
-EventListener
-dir
-
-
-
-add
-
-phpunit.xml.dist
-file
-
-
-
-add
-
-Resources
-dir
-
-
-
-add
-
-Command
-dir
-
-
-
-add
-

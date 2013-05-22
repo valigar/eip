@@ -1,70 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Token
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-AnonymousToken.php
-file
-
-
-
-add
-
-PreAuthenticatedToken.php
-file
-
-
-
-add
-
-RememberMeToken.php
-file
-
-
-
-add
-
-TokenInterface.php
-file
-
-
-
-add
-
-UsernamePasswordToken.php
-file
-
-
-
-add
-
-AbstractToken.php
-file
-
-
-
-add
-

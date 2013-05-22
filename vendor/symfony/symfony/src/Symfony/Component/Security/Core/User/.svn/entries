@@ -1,91 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/User
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-InMemoryUserProvider.php
-file
-
-
-
-add
-
-UserProviderInterface.php
-file
-
-
-
-add
-
-ChainUserProvider.php
-file
-
-
-
-add
-
-User.php
-file
-
-
-
-add
-
-UserInterface.php
-file
-
-
-
-add
-
-UserChecker.php
-file
-
-
-
-add
-
-EquatableInterface.php
-file
-
-
-
-add
-
-UserCheckerInterface.php
-file
-
-
-
-add
-
-AdvancedUserInterface.php
-file
-
-
-
-add
-

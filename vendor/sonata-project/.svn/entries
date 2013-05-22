@@ -1,98 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-admin-bundle
-dir
-
-
-
-add
-
-doctrine-orm-admin-bundle
-dir
-
-
-
-add
-
-easy-extends-bundle
-dir
-
-
-
-add
-
-block-bundle
-dir
-
-
-
-add
-
-doctrine-extensions
-dir
-
-
-
-add
-
-google-authenticator
-dir
-
-
-
-add
-
-user-bundle
-dir
-
-
-
-add
-
-jquery-bundle
-dir
-
-
-
-add
-
-exporter
-dir
-
-
-
-add
-
-cache-bundle
-dir
-
-
-
-add
-

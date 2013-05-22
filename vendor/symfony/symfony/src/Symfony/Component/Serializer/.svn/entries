@@ -1,119 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-composer.json
-file
-
-
-
-add
-
-Encoder
-dir
-
-
-
-add
-
-Serializer.php
-file
-
-
-
-add
-
-SerializerAwareInterface.php
-file
-
-
-
-add
-
-SerializerInterface.php
-file
-
-
-
-add
-
-LICENSE
-file
-
-
-
-add
-
-Normalizer
-dir
-
-
-
-add
-
-Tests
-dir
-
-
-
-add
-
-.gitignore
-file
-
-
-
-add
-
-CHANGELOG.md
-file
-
-
-
-add
-
-phpunit.xml.dist
-file
-
-
-
-add
-
-README.md
-file
-
-
-
-add
-
-Exception
-dir
-
-
-
-add
-

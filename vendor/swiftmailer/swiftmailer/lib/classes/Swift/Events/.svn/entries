@@ -1,133 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Events
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-SendEvent.php
-file
-
-
-
-add
-
-SendListener.php
-file
-
-
-
-add
-
-ResponseEvent.php
-file
-
-
-
-add
-
-SimpleEventDispatcher.php
-file
-
-
-
-add
-
-TransportChangeEvent.php
-file
-
-
-
-add
-
-ResponseListener.php
-file
-
-
-
-add
-
-TransportChangeListener.php
-file
-
-
-
-add
-
-EventObject.php
-file
-
-
-
-add
-
-TransportExceptionEvent.php
-file
-
-
-
-add
-
-CommandEvent.php
-file
-
-
-
-add
-
-TransportExceptionListener.php
-file
-
-
-
-add
-
-Event.php
-file
-
-
-
-add
-
-CommandListener.php
-file
-
-
-
-add
-
-EventListener.php
-file
-
-
-
-add
-
-EventDispatcher.php
-file
-
-
-
-add
-

@@ -1,140 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Acl/Model
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-MutableAclInterface.php
-file
-
-
-
-add
-
-AuditableAclInterface.php
-file
-
-
-
-add
-
-AclProviderInterface.php
-file
-
-
-
-add
-
-AuditableEntryInterface.php
-file
-
-
-
-add
-
-ObjectIdentityInterface.php
-file
-
-
-
-add
-
-SecurityIdentityInterface.php
-file
-
-
-
-add
-
-ObjectIdentityRetrievalStrategyInterface.php
-file
-
-
-
-add
-
-SecurityIdentityRetrievalStrategyInterface.php
-file
-
-
-
-add
-
-AclCacheInterface.php
-file
-
-
-
-add
-
-MutableAclProviderInterface.php
-file
-
-
-
-add
-
-DomainObjectInterface.php
-file
-
-
-
-add
-
-AclInterface.php
-file
-
-
-
-add
-
-EntryInterface.php
-file
-
-
-
-add
-
-PermissionGrantingStrategyInterface.php
-file
-
-
-
-add
-
-FieldEntryInterface.php
-file
-
-
-
-add
-
-AuditLoggerInterface.php
-file
-
-
-
-add
-

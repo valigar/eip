@@ -1,175 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-Translator.php
-file
-
-
-
-add
-
-MessageCatalogueInterface.php
-file
-
-
-
-add
-
-LICENSE
-file
-
-
-
-add
-
-CHANGELOG.md
-file
-
-
-
-add
-
-phpunit.xml.dist
-file
-
-
-
-add
-
-IdentityTranslator.php
-file
-
-
-
-add
-
-Dumper
-dir
-
-
-
-add
-
-README.md
-file
-
-
-
-add
-
-Exception
-dir
-
-
-
-add
-
-PluralizationRules.php
-file
-
-
-
-add
-
-MessageCatalogue.php
-file
-
-
-
-add
-
-composer.json
-file
-
-
-
-add
-
-TranslatorInterface.php
-file
-
-
-
-add
-
-Tests
-dir
-
-
-
-add
-
-.gitignore
-file
-
-
-
-add
-
-Loader
-dir
-
-
-
-add
-
-MetadataAwareInterface.php
-file
-
-
-
-add
-
-Interval.php
-file
-
-
-
-add
-
-MessageSelector.php
-file
-
-
-
-add
-
-Extractor
-dir
-
-
-
-add
-
-Writer
-dir
-
-
-
-add
-

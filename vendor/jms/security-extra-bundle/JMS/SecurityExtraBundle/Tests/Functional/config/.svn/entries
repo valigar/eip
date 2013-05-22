@@ -1,98 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Tests/Functional/config
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-all_voters_disabled.yml
-file
-
-
-
-add
-
-method_access_control.yml
-file
-
-
-
-add
-
-default.yml
-file
-
-
-
-add
-
-doctrine.yml
-file
-
-
-
-add
-
-routing.yml
-file
-
-
-
-add
-
-security.yml
-file
-
-
-
-add
-
-acl_enabled.yml
-file
-
-
-
-add
-
-twig.yml
-file
-
-
-
-add
-
-some_voters_disabled.yml
-file
-
-
-
-add
-
-framework.yml
-file
-
-
-
-add
-

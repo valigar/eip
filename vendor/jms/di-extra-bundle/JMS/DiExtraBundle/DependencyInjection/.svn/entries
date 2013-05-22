@@ -1,63 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-LookupMethodClassInterface.php
-file
-
-
-
-add
-
-Compiler
-dir
-
-
-
-add
-
-Collection
-dir
-
-
-
-add
-
-Configuration.php
-file
-
-
-
-add
-
-JMSDiExtraExtension.php
-file
-
-
-
-add
-

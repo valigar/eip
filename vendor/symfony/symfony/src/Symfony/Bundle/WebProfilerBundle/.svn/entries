@@ -1,112 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-composer.json
-file
-
-
-
-add
-
-WebProfilerBundle.php
-file
-
-
-
-add
-
-DependencyInjection
-dir
-
-
-
-add
-
-LICENSE
-file
-
-
-
-add
-
-Profiler
-dir
-
-
-
-add
-
-Tests
-dir
-
-
-
-add
-
-Controller
-dir
-
-
-
-add
-
-.gitignore
-file
-
-
-
-add
-
-CHANGELOG.md
-file
-
-
-
-add
-
-EventListener
-dir
-
-
-
-add
-
-phpunit.xml.dist
-file
-
-
-
-add
-
-Resources
-dir
-
-
-
-add
-

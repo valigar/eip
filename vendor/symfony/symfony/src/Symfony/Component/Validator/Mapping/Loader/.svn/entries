@@ -1,112 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Mapping/Loader
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-FilesLoader.php
-file
-
-
-
-add
-
-LoaderChain.php
-file
-
-
-
-add
-
-YamlFileLoader.php
-file
-
-
-
-add
-
-AbstractLoader.php
-file
-
-
-
-add
-
-schema
-dir
-
-
-
-add
-
-XmlFilesLoader.php
-file
-
-
-
-add
-
-YamlFilesLoader.php
-file
-
-
-
-add
-
-StaticMethodLoader.php
-file
-
-
-
-add
-
-AnnotationLoader.php
-file
-
-
-
-add
-
-FileLoader.php
-file
-
-
-
-add
-
-LoaderInterface.php
-file
-
-
-
-add
-
-XmlFileLoader.php
-file
-
-
-
-add
-

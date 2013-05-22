@@ -1,140 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/xml
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-services13.xml
-file
-
-
-
-add
-
-extension1
-dir
-
-
-
-add
-
-extension2
-dir
-
-
-
-add
-
-extensions
-dir
-
-
-
-add
-
-withdoctype.xml
-file
-
-
-
-add
-
-services1.xml
-file
-
-
-
-add
-
-services2.xml
-file
-
-
-
-add
-
-services3.xml
-file
-
-
-
-add
-
-services4_bad_import.xml
-file
-
-
-
-add
-
-services4.xml
-file
-
-
-
-add
-
-services5.xml
-file
-
-
-
-add
-
-services6.xml
-file
-
-
-
-add
-
-services7.xml
-file
-
-
-
-add
-
-nonvalid.xml
-file
-
-
-
-add
-
-services8.xml
-file
-
-
-
-add
-
-services9.xml
-file
-
-
-
-add
-

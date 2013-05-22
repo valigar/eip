@@ -1,70 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-MemcachedCacheTest.php
-file
-
-
-
-add
-
-VarnishCacheTest.php
-file
-
-
-
-add
-
-NoopCacheTest.php
-file
-
-
-
-add
-
-SsiCacheTest.php
-file
-
-
-
-add
-
-MongoCacheTest.php
-file
-
-
-
-add
-
-ApcCacheTest.php
-file
-
-
-
-add
-

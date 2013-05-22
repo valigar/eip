@@ -1,77 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/lib
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-mime_types.php
-file
-
-
-
-add
-
-swift_required.php
-file
-
-
-
-add
-
-swift_init.php
-file
-
-
-
-add
-
-preferences.php
-file
-
-
-
-add
-
-swift_required_pear.php
-file
-
-
-
-add
-
-classes
-dir
-
-
-
-add
-
-dependency_maps
-dir
-
-
-
-add
-

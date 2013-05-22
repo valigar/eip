@@ -1,210 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-non-valid.xlf
-file
-
-
-
-add
-
-resourcebundle
-dir
-
-
-
-add
-
-resources-clean.xlf
-file
-
-
-
-add
-
-resname.xlf
-file
-
-
-
-add
-
-invalid-xml-resources.xlf
-file
-
-
-
-add
-
-resources.mo
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-non-valid.yml
-file
-
-
-
-add
-
-resources.po
-file
-
-
-
-add
-
-empty.csv
-file
-
-
-
-add
-
-resources.ini
-file
-
-
-
-add
-
-valid.csv
-file
-
-
-
-add
-
-withdoctype.xlf
-file
-
-
-
-add
-
-plurals.mo
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-empty.yml
-file
-
-
-
-add
-
-plurals.po
-file
-
-
-
-add
-
-resources.ts
-file
-
-
-
-add
-
-resources.php
-file
-
-
-
-add
-
-resources.xlf
-file
-
-
-
-add
-
-resources.csv
-file
-
-
-
-add
-
-empty-translation.po
-file
-
-
-
-add
-
-empty.mo
-file
-
-
-
-add
-
-resources.yml
-file
-
-
-
-add
-
-empty.po
-file
-
-
-
-add
-
-empty.ini
-file
-
-
-
-add
-

@@ -1,77 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/MimeType
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-ExtensionGuesser.php
-file
-
-
-
-add
-
-ExtensionGuesserInterface.php
-file
-
-
-
-add
-
-FileBinaryMimeTypeGuesser.php
-file
-
-
-
-add
-
-FileinfoMimeTypeGuesser.php
-file
-
-
-
-add
-
-MimeTypeExtensionGuesser.php
-file
-
-
-
-add
-
-MimeTypeGuesser.php
-file
-
-
-
-add
-
-MimeTypeGuesserInterface.php
-file
-
-
-
-add
-

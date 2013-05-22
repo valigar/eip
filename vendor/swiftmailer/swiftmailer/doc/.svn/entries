@@ -1,112 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/swiftmailer/swiftmailer/doc
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-including-the-files.rst
-file
-
-
-
-add
-
-headers.rst
-file
-
-
-
-add
-
-help-resources.rst
-file
-
-
-
-add
-
-introduction.rst
-file
-
-
-
-add
-
-plugins.rst
-file
-
-
-
-add
-
-installing.rst
-file
-
-
-
-add
-
-japanese.rst
-file
-
-
-
-add
-
-overview.rst
-file
-
-
-
-add
-
-uml
-dir
-
-
-
-add
-
-index.rst
-file
-
-
-
-add
-
-messages.rst
-file
-
-
-
-add
-
-sending.rst
-file
-
-
-
-add
-

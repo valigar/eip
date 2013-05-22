@@ -1,280 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/twig/twig/test/Twig/Tests/Fixtures/filters
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-number_format_default.test
-file
-
-
-
-add
-
-abs.test
-file
-
-
-
-add
-
-length.test
-file
-
-
-
-add
-
-batch.test
-file
-
-
-
-add
-
-batch_with_fill.test
-file
-
-
-
-add
-
-date_modify.test
-file
-
-
-
-add
-
-default.test
-file
-
-
-
-add
-
-json_encode.test
-file
-
-
-
-add
-
-convert_encoding.test
-file
-
-
-
-add
-
-length_utf8.test
-file
-
-
-
-add
-
-format.test
-file
-
-
-
-add
-
-date_default_format.test
-file
-
-
-
-add
-
-split.test
-file
-
-
-
-add
-
-date_default_format_interval.test
-file
-
-
-
-add
-
-merge.test
-file
-
-
-
-add
-
-join.test
-file
-
-
-
-add
-
-number_format.test
-file
-
-
-
-add
-
-batch_with_empty_fill.test
-file
-
-
-
-add
-
-escape.test
-file
-
-
-
-add
-
-special_chars.test
-file
-
-
-
-add
-
-last.test
-file
-
-
-
-add
-
-reverse.test
-file
-
-
-
-add
-
-replace.test
-file
-
-
-
-add
-
-trim.test
-file
-
-
-
-add
-
-date.test
-file
-
-
-
-add
-
-force_escape.test
-file
-
-
-
-add
-
-batch_float.php
-file
-
-
-
-add
-
-nl2br.test
-file
-
-
-
-add
-
-urlencode.test
-file
-
-
-
-add
-
-date_interval.test
-file
-
-
-
-add
-
-first.test
-file
-
-
-
-add
-
-sort.test
-file
-
-
-
-add
-
-escape_non_supported_charset.test
-file
-
-
-
-add
-
-dynamic_filter.test
-file
-
-
-
-add
-
-date_namedargs.test
-file
-
-
-
-add
-
-slice.test
-file
-
-
-
-add
-

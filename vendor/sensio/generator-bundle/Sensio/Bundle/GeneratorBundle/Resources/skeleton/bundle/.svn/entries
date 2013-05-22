@@ -1,119 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/bundle
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-routing.xml.twig
-file
-
-
-
-add
-
-routing.yml.twig
-file
-
-
-
-add
-
-services.php.twig
-file
-
-
-
-add
-
-messages.fr.xlf
-file
-
-
-
-add
-
-Configuration.php.twig
-file
-
-
-
-add
-
-routing.php.twig
-file
-
-
-
-add
-
-DefaultController.php.twig
-file
-
-
-
-add
-
-DefaultControllerTest.php.twig
-file
-
-
-
-add
-
-Bundle.php.twig
-file
-
-
-
-add
-
-Extension.php.twig
-file
-
-
-
-add
-
-services.xml.twig
-file
-
-
-
-add
-
-index.html.twig.twig
-file
-
-
-
-add
-
-services.yml.twig
-file
-
-
-
-add
-

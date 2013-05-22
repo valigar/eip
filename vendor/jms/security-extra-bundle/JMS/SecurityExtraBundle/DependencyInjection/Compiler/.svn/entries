@@ -1,63 +1,0 @@
-10
-
-dir
-0
-https://eip-community-site.googlecode.com/svn/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler
-https://eip-community-site.googlecode.com/svn
-add
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d2545f25-593b-b32e-f79c-dcd53dc55463
-
-AddAfterInvocationProvidersPass.php
-file
-
-
-
-add
-
-IntegrationPass.php
-file
-
-
-
-add
-
-CollectSecuredServicesPass.php
-file
-
-
-
-add
-
-AddExpressionCompilersPass.php
-file
-
-
-
-add
-
-DisableVotersPass.php
-file
-
-
-
-add
-
