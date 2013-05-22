@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector
+END
+events.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/events.html.twig
+END
+config.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/config.html.twig
+END
+memory.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/memory.html.twig
+END
+request.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/request.html.twig
+END
+exception.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/exception.html.twig
+END
+time.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/time.html.twig
+END
+logger.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/logger.html.twig
+END
+router.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/router.html.twig
+END
+exception.css.twig
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/exception.css.twig
+END

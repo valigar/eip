@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection/Security/UserProvider
+END
+UserProviderFactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection/Security/UserProvider/UserProviderFactoryInterface.php
+END
+InMemoryFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection/Security/UserProvider/InMemoryFactory.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/LICENSE
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/CHANGELOG.md
+END
+TwigEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/TwigEngine.php
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/README.md
+END

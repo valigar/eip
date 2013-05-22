@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer
+END
+GsaFeedWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/GsaFeedWriterTest.php
+END
+XmlWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/XmlWriterTest.php
+END
+SitemapWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/SitemapWriterTest.php
+END
+XlsWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/XlsWriterTest.php
+END
+JsonWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/JsonWriterTest.php
+END
+CsvWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Writer/CsvWriterTest.php
+END

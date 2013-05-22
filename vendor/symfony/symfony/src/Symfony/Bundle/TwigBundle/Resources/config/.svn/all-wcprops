@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/config
+END
+debug.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/config/debug.xml
+END
+twig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/config/twig.xml
+END

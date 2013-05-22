@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Controller
+END
+ControllerNameParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Controller/ControllerNameParserTest.php
+END
+RedirectControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Controller/RedirectControllerTest.php
+END

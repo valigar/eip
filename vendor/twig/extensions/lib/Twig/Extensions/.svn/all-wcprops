@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Autoloader.php
+END
+Grammar.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Grammar.php
+END
+GrammarInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/GrammarInterface.php
+END
+SimpleTokenParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/SimpleTokenParser.php
+END

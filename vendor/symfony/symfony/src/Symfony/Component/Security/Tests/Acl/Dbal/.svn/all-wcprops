@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Dbal
+END
+AclProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Dbal/AclProviderTest.php
+END
+MutableAclProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Dbal/MutableAclProviderTest.php
+END
+AclProviderBenchmarkTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Dbal/AclProviderBenchmarkTest.php
+END

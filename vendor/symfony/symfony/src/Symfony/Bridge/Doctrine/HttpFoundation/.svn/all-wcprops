@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/HttpFoundation
+END
+DbalSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/HttpFoundation/DbalSessionHandler.php
+END
+DbalSessionHandlerSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/HttpFoundation/DbalSessionHandlerSchema.php
+END

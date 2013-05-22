@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/DependencyInjection
+END
+FOSUserExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/DependencyInjection/FOSUserExtension.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/DependencyInjection/Configuration.php
+END

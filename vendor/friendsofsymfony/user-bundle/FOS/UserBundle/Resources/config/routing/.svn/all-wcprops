@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing
+END
+profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/profile.xml
+END
+resetting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/resetting.xml
+END
+change_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/change_password.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/security.xml
+END
+registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/registration.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/routing/group.xml
+END

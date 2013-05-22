@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures
+END
+TranslatableItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/TranslatableItem.php
+END
+TranslatableItemI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/TranslatableItemI18n.php
+END
+ReadOnlyItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/ReadOnlyItem.php
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/Column.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/Item.php
+END
+ReadOnlyItemQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/ReadOnlyItemQuery.php
+END
+ItemQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/ItemQuery.php
+END

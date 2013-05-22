@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Provider
+END
+ChainProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Provider/ChainProviderTest.php
+END
+PimpleProviderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Provider/PimpleProviderTest.php
+END

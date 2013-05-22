@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form
+END
+container_attributes.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/container_attributes.html.php
+END
+checkbox_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/checkbox_widget.html.php
+END
+form_row.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_row.html.php
+END
+form_enctype.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_enctype.html.php
+END
+email_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/email_widget.html.php
+END
+number_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/number_widget.html.php
+END
+widget_container_attributes.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/widget_container_attributes.html.php
+END
+choice_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/choice_widget.html.php
+END
+hidden_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/hidden_widget.html.php
+END
+collection_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/collection_widget.html.php
+END
+form_errors.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_errors.html.php
+END
+form_rest.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_rest.html.php
+END
+radio_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/radio_widget.html.php
+END
+time_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/time_widget.html.php
+END
+form_label.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_label.html.php
+END
+url_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/url_widget.html.php
+END
+choice_widget_options.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/choice_widget_options.html.php
+END
+search_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/search_widget.html.php
+END
+form_widget_simple.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_widget_simple.html.php
+END
+date_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/date_widget.html.php
+END
+repeated_row.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/repeated_row.html.php
+END
+textarea_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/textarea_widget.html.php
+END
+hidden_row.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/hidden_row.html.php
+END
+field_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_widget.html.php
+END
+attributes.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/attributes.html.php
+END
+widget_attributes.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/widget_attributes.html.php
+END
+money_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/money_widget.html.php
+END
+field_rows.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_rows.html.php
+END
+datetime_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/datetime_widget.html.php
+END
+integer_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/integer_widget.html.php
+END
+percent_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/percent_widget.html.php
+END
+choice_options.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/choice_options.html.php
+END
+choice_widget_expanded.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/choice_widget_expanded.html.php
+END
+password_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/password_widget.html.php
+END
+form_widget.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_widget.html.php
+END
+form_widget_compound.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_widget_compound.html.php
+END
+field_row.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_row.html.php
+END
+field_enctype.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_enctype.html.php
+END
+form_rows.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/form_rows.html.php
+END
+field_errors.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_errors.html.php
+END
+field_rest.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_rest.html.php
+END
+field_label.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/field_label.html.php
+END
+choice_widget_collapsed.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/choice_widget_collapsed.html.php
+END

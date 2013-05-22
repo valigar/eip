@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source
+END
+ArraySourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/ArraySourceIterator.php
+END
+SourceIteratorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/SourceIteratorInterface.php
+END
+ChainSourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/ChainSourceIterator.php
+END
+PDOStatementSourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/PDOStatementSourceIterator.php
+END
+SymfonySitemapSourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/SymfonySitemapSourceIterator.php
+END
+IteratorSourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/IteratorSourceIterator.php
+END
+DoctrineDBALConnectionSourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/DoctrineDBALConnectionSourceIterator.php
+END
+DoctrineORMQuerySourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/DoctrineORMQuerySourceIterator.php
+END
+DoctrineODMQuerySourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Source/DoctrineODMQuerySourceIterator.php
+END

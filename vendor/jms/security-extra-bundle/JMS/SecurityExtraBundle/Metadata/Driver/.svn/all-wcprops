@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Metadata/Driver
+END
+ConfigDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Metadata/Driver/ConfigDriver.php
+END
+AnnotationDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Metadata/Driver/AnnotationDriver.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed
+END
+ActivationStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php
+END
+ErrorLevelActivationStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php
+END

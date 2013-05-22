@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection
+END
+MainConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection/MainConfiguration.php
+END
+SecurityExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/DependencyInjection/SecurityExtension.php
+END

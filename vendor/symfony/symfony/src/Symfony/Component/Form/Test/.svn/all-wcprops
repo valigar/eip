@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Test
+END
+FormBuilderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Test/FormBuilderInterface.php
+END
+FormInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Test/FormInterface.php
+END
+DeprecationErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Test/DeprecationErrorHandler.php
+END

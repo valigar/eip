@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource
+END
+DirectoryResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource/DirectoryResource.php
+END
+ConfigurationResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource/ConfigurationResource.php
+END
+CoalescingDirectoryResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource/CoalescingDirectoryResource.php
+END
+DirectoryResourceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource/DirectoryResourceIterator.php
+END
+FileResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Resource/FileResource.php
+END

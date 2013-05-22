@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional
+END
+LocalizedRoutesAsPathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/LocalizedRoutesAsPathTest.php
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/WebTestCase.php
+END
+CsrfFormLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/CsrfFormLoginTest.php
+END
+FormLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/FormLoginTest.php
+END
+AuthenticationCommencingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/AuthenticationCommencingTest.php
+END
+SwitchUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/SwitchUserTest.php
+END
+SecurityRoutingIntegrationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/SecurityRoutingIntegrationTest.php
+END

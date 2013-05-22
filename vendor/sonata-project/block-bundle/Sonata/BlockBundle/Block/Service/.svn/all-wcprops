@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/Service
+END
+EmptyBlockService.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/Service/EmptyBlockService.php
+END
+TextBlockService.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/Service/TextBlockService.php
+END
+RssBlockService.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/Service/RssBlockService.php
+END

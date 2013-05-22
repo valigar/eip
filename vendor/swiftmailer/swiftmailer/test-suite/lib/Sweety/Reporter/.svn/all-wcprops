@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/Sweety/Reporter
+END
+CliReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/Sweety/Reporter/CliReporter.php
+END
+HtmlTestCaseReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/Sweety/Reporter/HtmlTestCaseReporter.php
+END
+CliTestCaseReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/Sweety/Reporter/CliTestCaseReporter.php
+END
+HtmlReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/Sweety/Reporter/HtmlReporter.php
+END

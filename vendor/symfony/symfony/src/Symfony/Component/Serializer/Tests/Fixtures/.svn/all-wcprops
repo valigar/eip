@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures
+END
+Dummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures/Dummy.php
+END
+ScalarDummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures/ScalarDummy.php
+END
+DenormalizableDummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures/DenormalizableDummy.php
+END
+NormalizableTraversableDummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures/NormalizableTraversableDummy.php
+END
+TraversableDummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Tests/Fixtures/TraversableDummy.php
+END

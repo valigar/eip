@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Cache
+END
+CacheElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Cache/CacheElement.php
+END
+CacheManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Cache/CacheManager.php
+END
+CacheManagerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Cache/CacheManagerInterface.php
+END
+CacheInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Cache/CacheInterface.php
+END

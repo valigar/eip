@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/temp
+END
+.stop_cvs_removing_temp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/temp/.stop_cvs_removing_temp
+END

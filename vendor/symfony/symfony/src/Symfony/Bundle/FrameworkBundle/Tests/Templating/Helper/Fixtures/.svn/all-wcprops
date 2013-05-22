@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Templating/Helper/Fixtures
+END
+StubTemplateNameParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Templating/Helper/Fixtures/StubTemplateNameParser.php
+END
+StubTranslator.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Templating/Helper/Fixtures/StubTranslator.php
+END

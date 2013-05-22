@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/LICENSE
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/CHANGELOG.md
+END
+TwigEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/TwigEngine.php
+END
+TwigBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/TwigBundle.php
+END

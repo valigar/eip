@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/File/Fixtures
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/File/Fixtures/test
+END
+test.gif
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/File/Fixtures/test.gif
+END
+.unknownextension
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/File/Fixtures/.unknownextension
+END

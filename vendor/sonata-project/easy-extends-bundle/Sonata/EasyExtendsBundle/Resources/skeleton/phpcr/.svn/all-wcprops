@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Resources/skeleton/phpcr
+END
+document.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Resources/skeleton/phpcr/document.mustache
+END
+repository.mustache
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Resources/skeleton/phpcr/repository.mustache
+END

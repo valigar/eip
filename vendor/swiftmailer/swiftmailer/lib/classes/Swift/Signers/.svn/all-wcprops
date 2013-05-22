@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers
+END
+DKIMSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php
+END
+HeaderSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php
+END
+SMimeSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php
+END
+BodySigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php
+END
+DomainKeySigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php
+END

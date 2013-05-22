@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Tests/Propel
+END
+PropelUserManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Tests/Propel/PropelUserManagerTest.php
+END
+UserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Tests/Propel/UserTest.php
+END

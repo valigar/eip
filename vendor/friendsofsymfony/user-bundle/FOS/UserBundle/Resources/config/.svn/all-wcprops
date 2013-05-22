@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config
+END
+couchdb_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/couchdb_group.xml
+END
+mongodb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/mongodb.xml
+END
+validator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validator.xml
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/validation.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/group.xml
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/orm.xml
+END
+profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/profile.xml
+END
+propel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/propel.xml
+END
+mongodb_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/mongodb_group.xml
+END
+username_form_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/username_form_type.xml
+END
+resetting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/resetting.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/security.xml
+END
+couchdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/couchdb.xml
+END
+change_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/change_password.xml
+END
+orm_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/orm_group.xml
+END
+mailer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/mailer.xml
+END
+registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/registration.xml
+END
+propel_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/propel_group.xml
+END
+util.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/config/util.xml
+END

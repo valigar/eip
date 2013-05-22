@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/Provider
+END
+BuilderAliasProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/Provider/BuilderAliasProvider.php
+END
+ContainerAwareProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/Provider/ContainerAwareProvider.php
+END

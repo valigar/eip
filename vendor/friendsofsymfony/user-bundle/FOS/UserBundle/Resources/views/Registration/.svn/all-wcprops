@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration
+END
+register.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/register.html.twig
+END
+checkEmail.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/checkEmail.html.twig
+END
+confirmed.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/confirmed.html.twig
+END
+register_content.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/register_content.html.twig
+END
+email.txt.twig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Registration/email.txt.twig
+END

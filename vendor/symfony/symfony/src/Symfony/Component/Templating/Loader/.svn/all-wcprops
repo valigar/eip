@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader
+END
+ChainLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader/ChainLoader.php
+END
+CacheLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader/CacheLoader.php
+END
+FilesystemLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader/FilesystemLoader.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader/Loader.php
+END
+LoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Templating/Loader/LoaderInterface.php
+END

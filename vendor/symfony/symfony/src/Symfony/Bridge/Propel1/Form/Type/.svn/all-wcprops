@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Form/Type
+END
+TranslationCollectionType.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Form/Type/TranslationCollectionType.php
+END
+TranslationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Form/Type/TranslationType.php
+END
+ModelType.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Form/Type/ModelType.php
+END

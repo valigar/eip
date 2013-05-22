@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Log
+END
+NullLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Log/NullLogger.php
+END
+LoggerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Log/LoggerInterface.php
+END
+DebugLoggerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap
+END
+SomeClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/SomeClass.php
+END
+multipleNs.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/multipleNs.php
+END
+SomeParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/SomeParent.php
+END
+sameNsMultipleClasses.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/sameNsMultipleClasses.php
+END
+notPhpFile.md
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/notPhpFile.md
+END
+SomeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/SomeInterface.php
+END
+notAClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/notAClass.php
+END

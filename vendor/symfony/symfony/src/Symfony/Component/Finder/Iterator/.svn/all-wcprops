@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator
+END
+FilePathsIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/FilePathsIterator.php
+END
+CustomFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/CustomFilterIterator.php
+END
+DateRangeFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/DateRangeFilterIterator.php
+END
+FilecontentFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/FilecontentFilterIterator.php
+END
+PathFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/PathFilterIterator.php
+END
+ExcludeDirectoryFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/ExcludeDirectoryFilterIterator.php
+END
+FilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/FilterIterator.php
+END
+FilenameFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/FilenameFilterIterator.php
+END
+DepthRangeFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/DepthRangeFilterIterator.php
+END
+FileTypeFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/FileTypeFilterIterator.php
+END
+MultiplePcreFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/MultiplePcreFilterIterator.php
+END
+SortableIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/SortableIterator.php
+END
+RecursiveDirectoryIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/RecursiveDirectoryIterator.php
+END
+SizeRangeFilterIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Iterator/SizeRangeFilterIterator.php
+END

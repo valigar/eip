@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php
+END
+merge_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php/merge_import.php
+END
+merge.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php/merge.php
+END
+container1.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php/container1.php
+END
+custom_acl_provider.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/DependencyInjection/Fixtures/php/custom_acl_provider.php
+END

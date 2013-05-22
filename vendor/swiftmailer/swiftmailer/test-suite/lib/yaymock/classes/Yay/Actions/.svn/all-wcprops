@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions
+END
+CallbackAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/CallbackAction.php
+END
+ReturnValueAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/ReturnValueAction.php
+END
+ReturnReferenceAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/ReturnReferenceAction.php
+END
+ThrowAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/ThrowAction.php
+END

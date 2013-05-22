@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/tests
+END
+test.php.twig
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/crud/tests/test.php.twig
+END

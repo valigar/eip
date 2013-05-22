@@ -1,0 +1,103 @@
+10
+
+dir
+5
+https://eip-community-site.googlecode.com/svn/trunk/vendor/symfony/symfony/src/Symfony/Component
+https://eip-community-site.googlecode.com/svn
+
+
+
+2013-05-09T12:42:04.256594Z
+5
+yohan.rodrig@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+HttpKernel
+dir
+
+DependencyInjection
+dir
+
+Filesystem
+dir
+
+Validator
+dir
+
+Routing
+dir
+
+EventDispatcher
+dir
+
+CssSelector
+dir
+
+BrowserKit
+dir
+
+ClassLoader
+dir
+
+Translation
+dir
+
+DomCrawler
+dir
+
+Locale
+dir
+
+Yaml
+dir
+
+Console
+dir
+
+Form
+dir
+
+Templating
+dir
+
+Config
+dir
+
+HttpFoundation
+dir
+
+PropertyAccess
+dir
+
+Finder
+dir
+
+Security
+dir
+
+Serializer
+dir
+
+Stopwatch
+dir
+
+OptionsResolver
+dir
+
+Process
+dir
+

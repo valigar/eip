@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating
+END
+DelegatingEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/DelegatingEngine.php
+END
+GlobalVariables.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/GlobalVariables.php
+END
+TemplateFilenameParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/TemplateFilenameParser.php
+END
+TemplateNameParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/TemplateNameParser.php
+END
+TemplateReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/TemplateReference.php
+END
+PhpEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/PhpEngine.php
+END
+Debugger.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/Debugger.php
+END
+EngineInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Templating/EngineInterface.php
+END

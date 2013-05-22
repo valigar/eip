@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/Provider
+END
+ChainProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/Provider/ChainProvider.php
+END
+MenuProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/Provider/MenuProviderInterface.php
+END
+PimpleProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/Provider/PimpleProvider.php
+END

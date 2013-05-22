@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcachedCache.php
+END
+RedisCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/RedisCache.php
+END
+PhpFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/PhpFileCache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/XcacheCache.php
+END
+CouchbaseCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CouchbaseCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ArrayCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/Cache.php
+END
+FileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/WinCacheCache.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ApcCache.php
+END
+FilesystemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FilesystemCache.php
+END

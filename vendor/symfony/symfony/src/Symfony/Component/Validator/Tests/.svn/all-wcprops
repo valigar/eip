@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests
+END
+ConstraintViolationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ConstraintViolationTest.php
+END
+ConstraintValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ConstraintValidatorTest.php
+END
+ValidationVisitorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ValidationVisitorTest.php
+END
+ValidatorContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ValidatorContextTest.php
+END
+ValidatorBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ValidatorBuilderTest.php
+END
+ValidatorFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ValidatorFactoryTest.php
+END
+ConstraintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ConstraintTest.php
+END
+ConstraintViolationListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ConstraintViolationListTest.php
+END
+ValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ValidatorTest.php
+END
+GraphWalkerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/GraphWalkerTest.php
+END
+ExecutionContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/ExecutionContextTest.php
+END

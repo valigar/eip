@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Fixtures/with%20space
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Fixtures/with%20space/foo.txt
+END

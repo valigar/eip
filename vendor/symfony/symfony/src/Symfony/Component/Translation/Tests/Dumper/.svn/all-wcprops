@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper
+END
+PoFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/PoFileDumperTest.php
+END
+IniFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/IniFileDumperTest.php
+END
+YamlFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/YamlFileDumperTest.php
+END
+QtFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/QtFileDumperTest.php
+END
+PhpFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/PhpFileDumperTest.php
+END
+XliffFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/XliffFileDumperTest.php
+END
+IcuResFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/IcuResFileDumperTest.php
+END
+CsvFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/CsvFileDumperTest.php
+END
+MoFileDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Dumper/MoFileDumperTest.php
+END

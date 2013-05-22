@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest
+END
+GroupTests.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/GroupTests.pkg
+END
+FormTesting.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/FormTesting.pkg
+END
+MockObjects.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/MockObjects.pkg
+END
+WebTester.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/WebTester.pkg
+END
+Expectations.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/Expectations.pkg
+END
+PartialMock.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/PartialMock.pkg
+END
+ServerStubs.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/ServerStubs.pkg
+END
+SimpleTest.pkg.ini
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/SimpleTest.pkg.ini
+END
+Reporting.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/Reporting.pkg
+END
+SimpleTest.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/SimpleTest.pkg
+END
+UnitTestCase.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/tutorials/SimpleTest/UnitTestCase.pkg
+END

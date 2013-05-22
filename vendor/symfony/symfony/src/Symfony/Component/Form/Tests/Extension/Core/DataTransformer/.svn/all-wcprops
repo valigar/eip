@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer
+END
+MoneyToLocalizedStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/MoneyToLocalizedStringTransformerTest.php
+END
+NumberToLocalizedStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/NumberToLocalizedStringTransformerTest.php
+END
+BooleanToStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/BooleanToStringTransformerTest.php
+END
+DateTimeToRfc3339TransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeToRfc3339TransformerTest.php
+END
+DataTransformerChainTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DataTransformerChainTest.php
+END
+DateTimeToLocalizedStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeToLocalizedStringTransformerTest.php
+END
+IntegerToLocalizedStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/IntegerToLocalizedStringTransformerTest.php
+END
+LocalizedTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/LocalizedTestCase.php
+END
+PercentToLocalizedStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/PercentToLocalizedStringTransformerTest.php
+END
+DateTimeToTimestampTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeToTimestampTransformerTest.php
+END
+DateTimeToStringTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeToStringTransformerTest.php
+END
+ChoiceToValueTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/ChoiceToValueTransformerTest.php
+END
+ArrayToPartsTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/ArrayToPartsTransformerTest.php
+END
+ValueToDuplicatesTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/ValueToDuplicatesTransformerTest.php
+END
+DateTimeToArrayTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeToArrayTransformerTest.php
+END
+ChoicesToValuesTransformerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/ChoicesToValuesTransformerTest.php
+END
+DateTimeTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/DataTransformer/DateTimeTestCase.php
+END

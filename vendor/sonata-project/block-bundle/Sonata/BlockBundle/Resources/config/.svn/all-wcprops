@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Resources/config
+END
+form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Resources/config/form.xml
+END
+core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Resources/config/core.xml
+END
+block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Resources/config/block.xml
+END
+exception.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Resources/config/exception.xml
+END

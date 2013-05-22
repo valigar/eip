@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core
+END
+GeneratorStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/GeneratorStrategyInterface.php
+END
+ReflectionUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/ReflectionUtils.php
+END
+ClassGeneratorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/ClassGeneratorInterface.php
+END
+NamingStrategyInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/NamingStrategyInterface.php
+END
+DefaultGeneratorStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/DefaultGeneratorStrategy.php
+END
+AbstractClassGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/AbstractClassGenerator.php
+END
+DefaultNamingStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/DefaultNamingStrategy.php
+END
+ClassUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Core/ClassUtils.php
+END

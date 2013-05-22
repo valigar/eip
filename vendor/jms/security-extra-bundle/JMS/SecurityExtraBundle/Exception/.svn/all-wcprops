@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Exception
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Exception/Exception.php
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Exception/RuntimeException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Exception/InvalidArgumentException.php
+END

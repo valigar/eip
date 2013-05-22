@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/monolog-bundle/Symfony/Bundle/MonologBundle/DependencyInjection
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/monolog-bundle/Symfony/Bundle/MonologBundle/DependencyInjection/Configuration.php
+END
+MonologExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/monolog-bundle/Symfony/Bundle/MonologBundle/DependencyInjection/MonologExtension.php
+END

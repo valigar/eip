@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation
+END
+SatisfiesParentSecurityPolicy.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/SatisfiesParentSecurityPolicy.php
+END
+PreAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/PreAuthorize.php
+END
+Secure.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/Secure.php
+END
+SecureReturn.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/SecureReturn.php
+END
+SecureParam.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/SecureParam.php
+END
+RunAs.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Annotation/RunAs.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment
+END
+InlineFragmentRendererTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment/InlineFragmentRendererTest.php
+END
+EsiFragmentRendererTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment/EsiFragmentRendererTest.php
+END
+FragmentHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment/FragmentHandlerTest.php
+END
+HIncludeFragmentRendererTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment/HIncludeFragmentRendererTest.php
+END
+RoutableFragmentRendererTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fragment/RoutableFragmentRendererTest.php
+END

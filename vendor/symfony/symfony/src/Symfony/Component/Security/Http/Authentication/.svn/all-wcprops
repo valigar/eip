@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Authentication
+END
+DefaultAuthenticationFailureHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Authentication/DefaultAuthenticationFailureHandler.php
+END
+DefaultAuthenticationSuccessHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Authentication/DefaultAuthenticationSuccessHandler.php
+END
+AuthenticationFailureHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Authentication/AuthenticationFailureHandlerInterface.php
+END
+AuthenticationSuccessHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Http/Authentication/AuthenticationSuccessHandlerInterface.php
+END

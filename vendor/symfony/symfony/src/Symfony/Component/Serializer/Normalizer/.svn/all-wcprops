@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer
+END
+DenormalizableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/DenormalizableInterface.php
+END
+DenormalizerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/DenormalizerInterface.php
+END
+SerializerAwareNormalizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/SerializerAwareNormalizer.php
+END
+CustomNormalizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/CustomNormalizer.php
+END
+GetSetMethodNormalizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/GetSetMethodNormalizer.php
+END
+NormalizableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/NormalizableInterface.php
+END
+NormalizerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Serializer/Normalizer/NormalizerInterface.php
+END

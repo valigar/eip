@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/Collection
+END
+LazyServiceSequence.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/Collection/LazyServiceSequence.php
+END
+LazyServiceMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/Collection/LazyServiceMap.php
+END
+LazySequenceIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/Collection/LazySequenceIterator.php
+END

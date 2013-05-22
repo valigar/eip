@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment
+END
+InlineFragmentRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/InlineFragmentRenderer.php
+END
+EsiFragmentRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/EsiFragmentRenderer.php
+END
+FragmentRendererInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/FragmentRendererInterface.php
+END
+FragmentHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/FragmentHandler.php
+END
+HIncludeFragmentRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/HIncludeFragmentRenderer.php
+END
+RoutableFragmentRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Fragment/RoutableFragmentRenderer.php
+END

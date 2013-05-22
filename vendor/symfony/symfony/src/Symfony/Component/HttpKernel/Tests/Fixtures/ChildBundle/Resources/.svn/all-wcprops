@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ChildBundle/Resources
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ChildBundle/Resources/foo.txt
+END
+hide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ChildBundle/Resources/hide.txt
+END

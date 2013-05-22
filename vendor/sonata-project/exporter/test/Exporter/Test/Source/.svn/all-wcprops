@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Source
+END
+ArraySourceIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Source/ArraySourceIteratorTest.php
+END
+ChainSourceIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Source/ChainSourceIteratorTest.php
+END
+PDOStatementSourceIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Source/PDOStatementSourceIteratorTest.php
+END
+IteratorSourceIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/test/Exporter/Test/Source/IteratorSourceIteratorTest.php
+END

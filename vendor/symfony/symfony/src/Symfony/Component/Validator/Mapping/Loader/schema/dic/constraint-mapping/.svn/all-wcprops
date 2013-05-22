@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Mapping/Loader/schema/dic/constraint-mapping
+END
+constraint-mapping-1.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Mapping/Loader/schema/dic/constraint-mapping/constraint-mapping-1.0.xsd
+END

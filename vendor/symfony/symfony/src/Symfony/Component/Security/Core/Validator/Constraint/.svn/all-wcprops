@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Validator/Constraint
+END
+UserPassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Validator/Constraint/UserPassword.php
+END
+UserPasswordValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Validator/Constraint/UserPasswordValidator.php
+END

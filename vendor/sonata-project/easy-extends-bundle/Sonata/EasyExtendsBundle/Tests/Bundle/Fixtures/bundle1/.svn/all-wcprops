@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1
+END
+SymfonyNotExtendableBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/SymfonyNotExtendableBundle.php
+END
+SonataNotExtendableBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/SonataNotExtendableBundle.php
+END
+AcmeBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/AcmeBundle.php
+END
+SonataAcmeBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/SonataAcmeBundle.php
+END
+LongNamespaceBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/LongNamespaceBundle.php
+END

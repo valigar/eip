@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures
+END
+FilesLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/FilesLoader.php
+END
+PropertyConstraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/PropertyConstraint.php
+END
+InvalidConstraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/InvalidConstraint.php
+END
+ConstraintAValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/ConstraintAValidator.php
+END
+GroupSequenceProviderEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/GroupSequenceProviderEntity.php
+END
+EntityInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/EntityInterface.php
+END
+Reference.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/Reference.php
+END
+FakeMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/FakeMetadataFactory.php
+END
+InvalidConstraintValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/InvalidConstraintValidator.php
+END
+ClassConstraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/ClassConstraint.php
+END
+Entity.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/Entity.php
+END
+FailingConstraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/FailingConstraint.php
+END
+FailingConstraintValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/FailingConstraintValidator.php
+END
+ConstraintA.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/ConstraintA.php
+END
+EntityParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/EntityParent.php
+END
+ConstraintB.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/ConstraintB.php
+END
+ConstraintC.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/ConstraintC.php
+END

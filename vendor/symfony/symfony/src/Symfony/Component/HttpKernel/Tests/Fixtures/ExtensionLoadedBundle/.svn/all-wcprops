@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle
+END
+ExtensionLoadedBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php
+END

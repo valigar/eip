@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception
+END
+TransformationFailedException.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/TransformationFailedException.php
+END
+InvalidConfigurationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/InvalidConfigurationException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/Exception.php
+END
+NotValidException.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/NotValidException.php
+END
+StringCastException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/StringCastException.php
+END
+BadMethodCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/BadMethodCallException.php
+END
+NotInitializedException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/NotInitializedException.php
+END
+TypeDefinitionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/TypeDefinitionException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/ExceptionInterface.php
+END
+FormException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/FormException.php
+END
+CreationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/CreationException.php
+END
+ErrorMappingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/ErrorMappingException.php
+END
+UnexpectedTypeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/UnexpectedTypeException.php
+END
+TypeLoaderException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/TypeLoaderException.php
+END
+AlreadyBoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Exception/AlreadyBoundException.php
+END

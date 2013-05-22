@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml
+END
+deprecated_merge_full.yml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/deprecated_merge_full.yml
+END
+templating_url_package.yml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/templating_url_package.yml
+END
+full.yml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/full.yml
+END
+validation_annotations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/validation_annotations.yml
+END
+deprecated_merge_partial.yml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/deprecated_merge_partial.yml
+END
+csrf.yml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/DependencyInjection/Fixtures/yml/csrf.yml
+END

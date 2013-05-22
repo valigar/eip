@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/DependencyInjection/Compiler
+END
+GlobalVariablesCompilerPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/DependencyInjection/Compiler/GlobalVariablesCompilerPass.php
+END
+TweakCompilerPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/DependencyInjection/Compiler/TweakCompilerPass.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures
+END
+AssociationEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/AssociationEntity.php
+END
+ContainerAwareFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/ContainerAwareFixture.php
+END
+NoToStringSingleIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/NoToStringSingleIdentEntity.php
+END
+SingleStringIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/SingleStringIdentEntity.php
+END
+CompositeStringIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/CompositeStringIdentEntity.php
+END
+DoubleIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/DoubleIdentEntity.php
+END
+SingleIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/SingleIdentEntity.php
+END
+CompositeIdentEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/CompositeIdentEntity.php
+END
+ItemGroupEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/ItemGroupEntity.php
+END

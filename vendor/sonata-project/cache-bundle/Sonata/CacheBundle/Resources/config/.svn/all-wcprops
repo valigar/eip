@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Resources/config
+END
+cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Resources/config/cache.xml
+END
+phpcr_odm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Resources/config/phpcr_odm.xml
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Resources/config/orm.xml
+END

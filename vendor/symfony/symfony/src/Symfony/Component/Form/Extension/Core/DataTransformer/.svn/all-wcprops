@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer
+END
+MoneyToLocalizedStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/MoneyToLocalizedStringTransformer.php
+END
+BooleanToStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/BooleanToStringTransformer.php
+END
+NumberToLocalizedStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/NumberToLocalizedStringTransformer.php
+END
+DateTimeToRfc3339Transformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToRfc3339Transformer.php
+END
+DataTransformerChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DataTransformerChain.php
+END
+DateTimeToLocalizedStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToLocalizedStringTransformer.php
+END
+IntegerToLocalizedStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/IntegerToLocalizedStringTransformer.php
+END
+ChoicesToBooleanArrayTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ChoicesToBooleanArrayTransformer.php
+END
+PercentToLocalizedStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/PercentToLocalizedStringTransformer.php
+END
+DateTimeToTimestampTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToTimestampTransformer.php
+END
+DateTimeToStringTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToStringTransformer.php
+END
+BaseDateTimeTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/BaseDateTimeTransformer.php
+END
+ChoiceToValueTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ChoiceToValueTransformer.php
+END
+ArrayToPartsTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ArrayToPartsTransformer.php
+END
+ChoiceToBooleanArrayTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ChoiceToBooleanArrayTransformer.php
+END
+ValueToDuplicatesTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ValueToDuplicatesTransformer.php
+END
+DateTimeToArrayTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/DateTimeToArrayTransformer.php
+END
+ChoicesToValuesTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/DataTransformer/ChoicesToValuesTransformer.php
+END

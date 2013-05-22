@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain
+END
+DoctrineAclCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/DoctrineAclCacheTest.php
+END
+AclTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/AclTest.php
+END
+ObjectIdentityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/ObjectIdentityTest.php
+END
+UserSecurityIdentityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/UserSecurityIdentityTest.php
+END
+EntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/EntryTest.php
+END
+ObjectIdentityRetrievalStrategyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/ObjectIdentityRetrievalStrategyTest.php
+END
+SecurityIdentityRetrievalStrategyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/SecurityIdentityRetrievalStrategyTest.php
+END
+RoleSecurityIdentityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/RoleSecurityIdentityTest.php
+END
+FieldEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/FieldEntryTest.php
+END
+PermissionGrantingStrategyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/PermissionGrantingStrategyTest.php
+END
+AuditLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Acl/Domain/AuditLoggerTest.php
+END

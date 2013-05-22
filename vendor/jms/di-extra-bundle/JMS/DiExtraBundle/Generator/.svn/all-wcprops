@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Generator
+END
+RepositoryInjectionGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Generator/RepositoryInjectionGenerator.php
+END
+DefinitionInjectorGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Generator/DefinitionInjectorGenerator.php
+END
+LookupMethodClassGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Generator/LookupMethodClassGenerator.php
+END
+NameGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Generator/NameGenerator.php
+END

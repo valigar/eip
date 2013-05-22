@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Console/Command
+END
+ListCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Console/Command/ListCommand.php
+END
+Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Console/Command/Command.php
+END
+HelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Console/Command/HelpCommand.php
+END

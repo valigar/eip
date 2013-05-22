@@ -1,0 +1,58 @@
+10
+
+dir
+5
+https://eip-community-site.googlecode.com/svn/trunk/vendor/sonata-project
+https://eip-community-site.googlecode.com/svn
+
+
+
+2013-05-09T12:42:04.256594Z
+5
+yohan.rodrig@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2545f25-593b-b32e-f79c-dcd53dc55463
+
+admin-bundle
+dir
+
+doctrine-orm-admin-bundle
+dir
+
+easy-extends-bundle
+dir
+
+block-bundle
+dir
+
+doctrine-extensions
+dir
+
+google-authenticator
+dir
+
+user-bundle
+dir
+
+jquery-bundle
+dir
+
+exporter
+dir
+
+cache-bundle
+dir
+

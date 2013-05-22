@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter
+END
+ChromePHPFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php
+END
+WildfireFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php
+END
+LineFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php
+END
+JsonFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php
+END
+FormatterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php
+END
+GelfMessageFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php
+END
+NormalizerFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php
+END
+LogstashFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php
+END

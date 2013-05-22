@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator
+END
+Mustache.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/Mustache.php
+END
+BundleGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/BundleGenerator.php
+END
+PHPCRGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/PHPCRGenerator.php
+END
+OrmGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/OrmGenerator.php
+END
+OdmGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/OdmGenerator.php
+END
+GeneratorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Generator/GeneratorInterface.php
+END

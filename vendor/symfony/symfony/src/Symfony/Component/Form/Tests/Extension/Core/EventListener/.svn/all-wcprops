@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener
+END
+FixRadioInputListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/FixRadioInputListenerTest.php
+END
+ResizeFormListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/ResizeFormListenerTest.php
+END
+MergeCollectionListenerArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/MergeCollectionListenerArrayTest.php
+END
+FixUrlProtocolListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/FixUrlProtocolListenerTest.php
+END
+MergeCollectionListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/MergeCollectionListenerTest.php
+END
+TrimListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/TrimListenerTest.php
+END
+MergeCollectionListenerCustomArrayObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/MergeCollectionListenerCustomArrayObjectTest.php
+END
+MergeCollectionListenerArrayObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Tests/Extension/Core/EventListener/MergeCollectionListenerArrayObjectTest.php
+END

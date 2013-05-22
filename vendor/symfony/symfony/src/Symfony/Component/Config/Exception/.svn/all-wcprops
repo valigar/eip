@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Exception
+END
+FileLoaderImportCircularReferenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Exception/FileLoaderImportCircularReferenceException.php
+END
+FileLoaderLoadException.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Exception/FileLoaderLoadException.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock
+END
+yay_mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/yay_mock.php
+END
+yay_convenience.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/yay_convenience.php
+END
+mock.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/mock.tpl.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/DependencyInjection/CompilerPass
+END
+DoctrineValidationPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/DependencyInjection/CompilerPass/DoctrineValidationPass.php
+END
+RegisterEventListenersAndSubscribersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/DependencyInjection/CompilerPass/RegisterEventListenersAndSubscribersPass.php
+END

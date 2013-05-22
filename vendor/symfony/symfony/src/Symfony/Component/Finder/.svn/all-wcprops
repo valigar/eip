@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/composer.json
+END
+SplFileInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/SplFileInfo.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/LICENSE
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/CHANGELOG.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/phpunit.xml.dist
+END
+Glob.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Glob.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/README.md
+END
+Finder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Finder.php
+END

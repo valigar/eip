@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection
+END
+LookupMethodClassInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/LookupMethodClassInterface.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/Configuration.php
+END
+JMSDiExtraExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/DependencyInjection/JMSDiExtraExtension.php
+END

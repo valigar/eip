@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml
+END
+orm_multiple_em_bundle_mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_multiple_em_bundle_mappings.xml
+END
+orm_hydration_mode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_hydration_mode.xml
+END
+orm_functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_functions.xml
+END
+orm_filters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_filters.xml
+END
+dbal_types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_types.xml
+END
+dbal_schema_filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_schema_filter.xml
+END
+orm_resolve_target_entity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_resolve_target_entity.xml
+END
+orm_proxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_proxy.xml
+END
+dbal_service_multiple_connections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_service_multiple_connections.xml
+END
+orm_service_multiple_entity_managers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_service_multiple_entity_managers.xml
+END
+dbal_service_single_connection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_service_single_connection.xml
+END
+orm_imports_import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_imports_import.xml
+END
+orm_service_single_entity_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_service_single_entity_manager.xml
+END
+orm_single_em_bundle_mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_single_em_bundle_mappings.xml
+END
+dbal_service_single_master_slave_connection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_service_single_master_slave_connection.xml
+END
+orm_single_em_dql_functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_single_em_dql_functions.xml
+END
+dbal_logging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/dbal_logging.xml
+END
+orm_namingstrategy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_namingstrategy.xml
+END
+orm_imports.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_imports.xml
+END
+orm_service_simple_single_entity_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/DependencyInjection/Fixtures/config/xml/orm_service_simple_single_entity_manager.xml
+END

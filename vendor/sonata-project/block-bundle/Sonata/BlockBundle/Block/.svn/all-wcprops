@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block
+END
+BlockContextManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockContextManager.php
+END
+BlockContextManagerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockContextManagerInterface.php
+END
+BlockServiceInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockServiceInterface.php
+END
+BlockContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockContext.php
+END
+BlockContextInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockContextInterface.php
+END
+BlockRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockRenderer.php
+END
+BlockLoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockLoaderInterface.php
+END
+BlockRendererInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockRendererInterface.php
+END
+BlockLoaderChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockLoaderChain.php
+END
+TraceableBlockRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/TraceableBlockRenderer.php
+END
+BaseBlockService.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BaseBlockService.php
+END
+BlockServiceManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockServiceManager.php
+END
+BlockServiceManagerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Block/BlockServiceManagerInterface.php
+END

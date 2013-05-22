@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter
+END
+MemcachedCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/MemcachedCacheTest.php
+END
+VarnishCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/VarnishCacheTest.php
+END
+NoopCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/NoopCacheTest.php
+END
+SsiCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/SsiCacheTest.php
+END
+MongoCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/MongoCacheTest.php
+END
+ApcCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Adapter/ApcCacheTest.php
+END

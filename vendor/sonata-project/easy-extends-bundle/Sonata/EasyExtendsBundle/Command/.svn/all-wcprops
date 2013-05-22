@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Command
+END
+GenerateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Command/GenerateCommand.php
+END
+DumpMappingCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Command/DumpMappingCommand.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/Bundle/CsrfFormLoginBundle/Resources/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/Bundle/CsrfFormLoginBundle/Resources/config/routing.yml
+END

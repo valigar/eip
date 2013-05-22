@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers
+END
+OptionalMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/OptionalMatcher.php
+END
+AnyMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/AnyMatcher.php
+END
+EqualMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/EqualMatcher.php
+END
+BoundsMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/BoundsMatcher.php
+END
+IdenticalMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/IdenticalMatcher.php
+END
+PatternMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/PatternMatcher.php
+END
+ReferenceMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Matchers/ReferenceMatcher.php
+END

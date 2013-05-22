@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests
+END
+PropertyAccessorArrayObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyAccessorArrayObjectTest.php
+END
+PropertyPathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyPathTest.php
+END
+PropertyAccessorCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyAccessorCollectionTest.php
+END
+StringUtilTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/StringUtilTest.php
+END
+PropertyAccessorArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyAccessorArrayTest.php
+END
+PropertyAccessorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyAccessorTest.php
+END
+PropertyAccessorCustomArrayObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyAccessorCustomArrayObjectTest.php
+END
+PropertyPathBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Tests/PropertyPathBuilderTest.php
+END

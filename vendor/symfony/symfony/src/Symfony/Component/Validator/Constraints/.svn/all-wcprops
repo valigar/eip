@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Callback.php
+END
+MaxLengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MaxLengthValidator.php
+END
+BlankValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/BlankValidator.php
+END
+GroupSequenceProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/GroupSequenceProvider.php
+END
+CallbackValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CallbackValidator.php
+END
+Luhn.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Luhn.php
+END
+All.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/All.php
+END
+Ip.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Ip.php
+END
+IpValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/IpValidator.php
+END
+AllValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/AllValidator.php
+END
+NullValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/NullValidator.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Type.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Length.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Image.php
+END
+DateValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/DateValidator.php
+END
+MinLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MinLength.php
+END
+FileValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/FileValidator.php
+END
+MaxLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MaxLength.php
+END
+Blank.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Blank.php
+END
+MinValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MinValidator.php
+END
+Choice.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Choice.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Time.php
+END
+Valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Valid.php
+END
+FalseValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/FalseValidator.php
+END
+CardSchemeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CardSchemeValidator.php
+END
+UrlValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/UrlValidator.php
+END
+CountryValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CountryValidator.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/File.php
+END
+RegexValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/RegexValidator.php
+END
+Min.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Min.php
+END
+Max.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Max.php
+END
+LengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/LengthValidator.php
+END
+TypeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/TypeValidator.php
+END
+LanguageValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/LanguageValidator.php
+END
+MinLengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MinLengthValidator.php
+END
+EmailValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/EmailValidator.php
+END
+NotNullValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/NotNullValidator.php
+END
+CollectionValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CollectionValidator.php
+END
+Country.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Country.php
+END
+LocaleValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/LocaleValidator.php
+END
+NotBlank.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/NotBlank.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Null.php
+END
+LuhnValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/LuhnValidator.php
+END
+NotBlankValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/NotBlankValidator.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Language.php
+END
+TrueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/TrueValidator.php
+END
+GroupSequence.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/GroupSequence.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Email.php
+END
+Count.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Count.php
+END
+ImageValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/ImageValidator.php
+END
+False.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/False.php
+END
+NotNull.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/NotNull.php
+END
+MaxValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/MaxValidator.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Collection.php
+END
+Range.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Range.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/DateTime.php
+END
+CountValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CountValidator.php
+END
+CardScheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/CardScheme.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Locale.php
+END
+ChoiceValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/ChoiceValidator.php
+END
+RangeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/RangeValidator.php
+END
+DateTimeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/DateTimeValidator.php
+END
+Url.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Url.php
+END
+TimeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/TimeValidator.php
+END
+Regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Regex.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Date.php
+END
+True.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/True.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector
+END
+CssSelector.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/CssSelector.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/composer.json
+END
+Tokenizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tokenizer.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/LICENSE
+END
+TokenStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/TokenStream.php
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/CHANGELOG.md
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Token.php
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/phpunit.xml.dist
+END
+XPathExpr.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/XPathExpr.php
+END
+XPathExprOr.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/XPathExprOr.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/README.md
+END

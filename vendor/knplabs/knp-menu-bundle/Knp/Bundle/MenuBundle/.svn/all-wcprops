@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/.travis.yml
+END
+UPGRADE.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/UPGRADE.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/README.md
+END
+KnpMenuBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/KnpMenuBundle.php
+END

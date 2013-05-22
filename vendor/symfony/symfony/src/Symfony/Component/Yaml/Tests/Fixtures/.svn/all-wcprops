@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures
+END
+sfCompact.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfCompact.yml
+END
+YtsSpecificationExamples.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsSpecificationExamples.yml
+END
+sfObjects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfObjects.yml
+END
+YtsAnchorAlias.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsAnchorAlias.yml
+END
+sfTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfTests.yml
+END
+unindentedCollections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/unindentedCollections.yml
+END
+embededPhp.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/embededPhp.yml
+END
+YtsDocumentSeparator.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsDocumentSeparator.yml
+END
+sfMergeKey.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfMergeKey.yml
+END
+escapedCharacters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/escapedCharacters.yml
+END
+YtsBasicTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsBasicTests.yml
+END
+YtsFoldedScalars.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsFoldedScalars.yml
+END
+YtsFlowCollections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsFlowCollections.yml
+END
+YtsBlockMapping.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsBlockMapping.yml
+END
+index.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/index.yml
+END
+YtsNullsAndEmpties.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsNullsAndEmpties.yml
+END
+YtsTypeTransfers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsTypeTransfers.yml
+END
+sfQuotes.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfQuotes.yml
+END
+YtsErrorTests.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/YtsErrorTests.yml
+END
+sfComments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfComments.yml
+END

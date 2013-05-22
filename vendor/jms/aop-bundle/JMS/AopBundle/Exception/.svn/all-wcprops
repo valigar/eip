@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/vendor/jms/aop-bundle/JMS/AopBundle/Exception
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/jms/aop-bundle/JMS/AopBundle/Exception/Exception.php
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/jms/aop-bundle/JMS/AopBundle/Exception/RuntimeException.php
+END

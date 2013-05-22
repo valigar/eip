@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/lib/Google/Authenticator
+END
+FixedBitNotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/lib/Google/Authenticator/FixedBitNotation.php
+END
+GoogleAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/lib/Google/Authenticator/GoogleAuthenticator.php
+END

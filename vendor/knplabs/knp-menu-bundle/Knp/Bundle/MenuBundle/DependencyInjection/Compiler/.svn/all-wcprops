@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection/Compiler
+END
+AddRenderersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection/Compiler/AddRenderersPass.php
+END
+MenuPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection/Compiler/MenuPass.php
+END
+AddProvidersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection/Compiler/AddProvidersPass.php
+END
+AddTemplatePathPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu-bundle/Knp/Bundle/MenuBundle/DependencyInjection/Compiler/AddTemplatePathPass.php
+END

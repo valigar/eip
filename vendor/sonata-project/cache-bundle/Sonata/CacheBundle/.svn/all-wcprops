@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/.travis.yml
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/phpunit.xml.dist
+END
+SonataCacheBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/SonataCacheBundle.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/README.md
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/build.xml
+END

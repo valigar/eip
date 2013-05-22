@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests
+END
+acceptance.conf.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance.conf.php.default
+END
+smoke.conf.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/smoke.conf.php.default
+END

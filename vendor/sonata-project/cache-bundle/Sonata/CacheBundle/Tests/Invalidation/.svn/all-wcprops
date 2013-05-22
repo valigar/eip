@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Invalidation
+END
+DoctrineORMListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Invalidation/DoctrineORMListenerTest.php
+END
+SimpleCacheInvalidationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Invalidation/SimpleCacheInvalidationTest.php
+END
+ModelCollectionIdentifiersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Invalidation/ModelCollectionIdentifiersTest.php
+END
+RecorderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/sonata-project/cache-bundle/Sonata/CacheBundle/Tests/Invalidation/RecorderTest.php
+END

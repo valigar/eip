@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization
+END
+RunAsManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/RunAsManager.php
+END
+RunAsManagerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/RunAsManagerInterface.php
+END
+RememberingAccessDecisionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/RememberingAccessDecisionManager.php
+END

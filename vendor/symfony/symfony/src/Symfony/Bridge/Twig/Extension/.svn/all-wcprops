@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension
+END
+TranslationExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/TranslationExtension.php
+END
+HttpKernelExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/HttpKernelExtension.php
+END
+YamlExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/YamlExtension.php
+END
+FormExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/FormExtension.php
+END
+RoutingExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/RoutingExtension.php
+END
+SecurityExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/SecurityExtension.php
+END
+CodeExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Extension/CodeExtension.php
+END

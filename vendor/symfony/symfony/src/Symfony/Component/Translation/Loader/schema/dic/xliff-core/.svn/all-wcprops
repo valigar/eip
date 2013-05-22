@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Loader/schema/dic/xliff-core
+END
+xliff-core-1.2-strict.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Loader/schema/dic/xliff-core/xliff-core-1.2-strict.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Loader/schema/dic/xliff-core/xml.xsd
+END

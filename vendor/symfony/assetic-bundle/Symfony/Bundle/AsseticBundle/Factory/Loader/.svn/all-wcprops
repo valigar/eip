@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Loader
+END
+ConfigurationLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Loader/ConfigurationLoader.php
+END
+AsseticHelperFormulaLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Factory/Loader/AsseticHelperFormulaLoader.php
+END

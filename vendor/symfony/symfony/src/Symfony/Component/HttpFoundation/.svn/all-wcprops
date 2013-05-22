@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation
+END
+IpUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/IpUtils.php
+END
+FileBag.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php
+END
+ParameterBag.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ParameterBag.php
+END
+ApacheRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ApacheRequest.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/LICENSE
+END
+RequestMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/RequestMatcher.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Response.php
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/CHANGELOG.md
+END
+HeaderBag.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/HeaderBag.php
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/phpunit.xml.dist
+END
+BinaryFileResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/BinaryFileResponse.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/README.md
+END
+AcceptHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/AcceptHeader.php
+END
+Cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Cookie.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/composer.json
+END
+RequestMatcherInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/RequestMatcherInterface.php
+END
+RedirectResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/RedirectResponse.php
+END
+ServerBag.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ServerBag.php
+END
+ResponseHeaderBag.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/ResponseHeaderBag.php
+END
+StreamedResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/StreamedResponse.php
+END
+AcceptHeaderItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/AcceptHeaderItem.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Request.php
+END
+JsonResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/JsonResponse.php
+END

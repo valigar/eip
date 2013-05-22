@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Resource
+END
+DirectoryResourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Resource/DirectoryResourceTest.php
+END
+FileResourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Resource/FileResourceTest.php
+END

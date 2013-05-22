@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Extension
+END
+I18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Extension/I18n.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Extension/Text.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Extension/Debug.php
+END
+Intl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/twig/extensions/lib/Twig/Extensions/Extension/Intl.php
+END

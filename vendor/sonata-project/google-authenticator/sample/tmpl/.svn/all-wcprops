@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl
+END
+login-error.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl/login-error.php
+END
+show-qr.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl/show-qr.php
+END
+ask-for-otp.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl/ask-for-otp.php
+END
+loggedin.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl/loggedin.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/sonata-project/google-authenticator/sample/tmpl/login.php
+END

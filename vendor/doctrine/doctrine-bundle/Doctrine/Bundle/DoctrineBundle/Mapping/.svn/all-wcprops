@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Mapping
+END
+DisconnectedMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Mapping/DisconnectedMetadataFactory.php
+END
+ClassMetadataCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Mapping/ClassMetadataCollection.php
+END
+MetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Mapping/MetadataFactory.php
+END

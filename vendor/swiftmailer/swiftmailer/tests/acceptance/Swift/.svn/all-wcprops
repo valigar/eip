@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift
+END
+MessageAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/MessageAcceptanceTest.php
+END
+EncodingAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/EncodingAcceptanceTest.php
+END
+AttachmentAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/AttachmentAcceptanceTest.php
+END
+EmbeddedFileAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/EmbeddedFileAcceptanceTest.php
+END
+MimePartAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/MimePartAcceptanceTest.php
+END
+DependencyContainerAcceptanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/DependencyContainerAcceptanceTest.php
+END

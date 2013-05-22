@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator
+END
+PhpProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/PhpProperty.php
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/Writer.php
+END
+PhpClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/PhpClass.php
+END
+PhpFunction.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/PhpFunction.php
+END
+DefaultNavigator.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/DefaultNavigator.php
+END
+AbstractPhpMember.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/AbstractPhpMember.php
+END
+DefaultVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/DefaultVisitor.php
+END
+DefaultVisitorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/DefaultVisitorInterface.php
+END
+GeneratorUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/GeneratorUtils.php
+END
+PhpMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/PhpMethod.php
+END
+PhpParameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/vendor/jms/cg/src/CG/Generator/PhpParameter.php
+END

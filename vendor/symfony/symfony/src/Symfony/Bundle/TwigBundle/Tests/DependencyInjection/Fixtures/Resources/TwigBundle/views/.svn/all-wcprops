@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Tests/DependencyInjection/Fixtures/Resources/TwigBundle/views
+END
+layout.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Tests/DependencyInjection/Fixtures/Resources/TwigBundle/views/layout.html.twig
+END

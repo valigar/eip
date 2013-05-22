@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/LICENSE
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/CHANGELOG.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/README.md
+END

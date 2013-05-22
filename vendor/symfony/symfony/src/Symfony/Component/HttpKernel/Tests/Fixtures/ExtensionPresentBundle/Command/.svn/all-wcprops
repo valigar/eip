@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/Command
+END
+FooCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/Command/FooCommand.php
+END

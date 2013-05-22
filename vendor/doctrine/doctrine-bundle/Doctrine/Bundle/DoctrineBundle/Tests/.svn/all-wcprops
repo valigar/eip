@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests
+END
+BundleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/BundleTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/TestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/bootstrap.php
+END
+ContainerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/ContainerTest.php
+END
+RegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Tests/RegistryTest.php
+END

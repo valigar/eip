@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Interception
+END
+SecurityPointcut.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Interception/SecurityPointcut.php
+END
+MethodSecurityInterceptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Interception/MethodSecurityInterceptor.php
+END

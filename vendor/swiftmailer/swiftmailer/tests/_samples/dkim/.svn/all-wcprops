@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/dkim
+END
+dkim.test.priv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/dkim/dkim.test.priv
+END
+dkim.test.pub
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/dkim/dkim.test.pub
+END

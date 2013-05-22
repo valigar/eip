@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token
+END
+AnonymousTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token/AnonymousTokenTest.php
+END
+PreAuthenticatedTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token/PreAuthenticatedTokenTest.php
+END
+RememerMeTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token/RememerMeTokenTest.php
+END
+UsernamePasswordTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token/UsernamePasswordTokenTest.php
+END
+AbstractTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Tests/Core/Authentication/Token/AbstractTokenTest.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation
+END
+LookupMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/LookupMethod.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Tag.php
+END
+Inject.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Inject.php
+END
+DoctrineListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/DoctrineListener.php
+END
+SecurityFunction.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/SecurityFunction.php
+END
+Reference.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Reference.php
+END
+InjectParams.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/InjectParams.php
+END
+Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Service.php
+END
+AbstractDoctrineListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/AbstractDoctrineListener.php
+END
+AfterSetup.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/AfterSetup.php
+END
+DoctrineMongoDBListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/DoctrineMongoDBListener.php
+END
+FormType.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/FormType.php
+END
+Observe.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Observe.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/jms/di-extra-bundle/JMS/DiExtraBundle/Annotation/Validator.php
+END

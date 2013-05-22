@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/.travis.yml
+END
+SensioGeneratorBundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/SensioGeneratorBundle.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/README.md
+END

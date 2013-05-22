@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/PHPCR
+END
+Block.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/PHPCR/Block.php
+END
+BlockRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/PHPCR/BlockRepository.php
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/PHPCR/Page.php
+END
+PageRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/PHPCR/PageRepository.php
+END

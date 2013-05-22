@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures
+END
+nonvalidnode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalidnode.xml
+END
+foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/foo.xml
+END
+nonesense_resource_plus_path.yml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonesense_resource_plus_path.yml
+END
+validpattern.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/validpattern.php
+END
+missing_path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/missing_path.xml
+END
+missing_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/missing_id.xml
+END
+nonesense_type_without_resource.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonesense_type_without_resource.yml
+END
+nonvalidroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalidroute.xml
+END
+nonvalid2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalid2.yml
+END
+validpattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/validpattern.xml
+END
+validpattern.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/validpattern.yml
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/empty.yml
+END
+special_route_name.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/special_route_name.yml
+END
+incomplete.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/incomplete.yml
+END
+RedirectableUrlMatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/RedirectableUrlMatcher.php
+END
+withdoctype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/withdoctype.xml
+END
+foo1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/foo1.xml
+END
+annotated.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/annotated.php
+END
+nonvalidkeys.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalidkeys.yml
+END
+validresource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/validresource.xml
+END
+validresource.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/validresource.yml
+END
+CustomXmlFileLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/CustomXmlFileLoader.php
+END
+nonvalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalid.xml
+END
+namespaceprefix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/namespaceprefix.xml
+END
+nonvalid.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Routing/Tests/Fixtures/nonvalid.yml
+END

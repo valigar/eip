@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests
+END
+ContainerAwareEventDispatcherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests/ContainerAwareEventDispatcherTest.php
+END
+GenericEventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests/GenericEventTest.php
+END
+EventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests/EventTest.php
+END
+EventDispatcherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests/EventDispatcherTest.php
+END
+ImmutableEventDispatcherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/EventDispatcher/Tests/ImmutableEventDispatcherTest.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Tests
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Tests/TestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Tests/bootstrap.php
+END
+LocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Locale/Tests/LocaleTest.php
+END

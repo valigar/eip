@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures
+END
+non-valid.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/non-valid.xlf
+END
+resources-clean.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources-clean.xlf
+END
+resname.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resname.xlf
+END
+invalid-xml-resources.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/invalid-xml-resources.xlf
+END
+resources.mo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.mo
+END
+non-valid.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/non-valid.yml
+END
+resources.po
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.po
+END
+resources.ini
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.ini
+END
+empty.csv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty.csv
+END
+valid.csv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/valid.csv
+END
+withdoctype.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/withdoctype.xlf
+END
+plurals.mo
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/plurals.mo
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty.yml
+END
+plurals.po
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/plurals.po
+END
+resources.ts
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.ts
+END
+resources.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.php
+END
+resources.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.xlf
+END
+resources.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.csv
+END
+empty-translation.po
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty-translation.po
+END
+empty.mo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty.mo
+END
+resources.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/resources.yml
+END
+empty.po
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty.po
+END
+empty.ini
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/fixtures/empty.ini
+END

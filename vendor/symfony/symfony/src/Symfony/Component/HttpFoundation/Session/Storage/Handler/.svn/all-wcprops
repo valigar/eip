@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler
+END
+NullSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/NullSessionHandler.php
+END
+MemcacheSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/MemcacheSessionHandler.php
+END
+PdoSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/PdoSessionHandler.php
+END
+MongoDbSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/MongoDbSessionHandler.php
+END
+MemcachedSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/MemcachedSessionHandler.php
+END
+NativeFileSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/NativeFileSessionHandler.php
+END
+NativeSessionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/Handler/NativeSessionHandler.php
+END

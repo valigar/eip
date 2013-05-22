@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command
+END
+ImportMappingDoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/ImportMappingDoctrineCommand.php
+END
+CreateDatabaseDoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/CreateDatabaseDoctrineCommand.php
+END
+DropDatabaseDoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/DropDatabaseDoctrineCommand.php
+END
+DoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/DoctrineCommand.php
+END
+GenerateEntitiesDoctrineCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/5/trunk/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Command/GenerateEntitiesDoctrineCommand.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/DataTransformer
+END
+CollectionToArrayTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Form/DataTransformer/CollectionToArrayTransformer.php
+END

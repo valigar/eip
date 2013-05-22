@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func
+END
+IsFullyAuthenticatedFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/IsFullyAuthenticatedFunctionCompiler.php
+END
+IsRememberMeFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/IsRememberMeFunctionCompiler.php
+END
+HasRoleFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/HasRoleFunctionCompiler.php
+END
+ServiceCallbackFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/ServiceCallbackFunctionCompiler.php
+END
+IsAuthenticatedFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/IsAuthenticatedFunctionCompiler.php
+END
+FunctionCompilerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/FunctionCompilerInterface.php
+END
+AuthenticationTrustFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/AuthenticationTrustFunctionCompiler.php
+END
+IsAnonymousFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/IsAnonymousFunctionCompiler.php
+END
+HasAnyRoleFunctionCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/Security/Authorization/Expression/Compiler/Func/HasAnyRoleFunctionCompiler.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/controller
+END
+Template.html.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/controller/Template.html.php
+END
+Template.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/controller/Template.html.twig
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/controller/Controller.php
+END
+ControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/trunk/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/skeleton/controller/ControllerTest.php
+END

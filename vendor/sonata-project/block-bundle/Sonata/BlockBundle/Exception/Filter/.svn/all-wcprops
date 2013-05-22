@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter
+END
+KeepNoneFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter/KeepNoneFilter.php
+END
+DebugOnlyFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter/DebugOnlyFilter.php
+END
+IgnoreClassFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter/IgnoreClassFilter.php
+END
+KeepAllFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter/KeepAllFilter.php
+END
+FilterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/sonata-project/block-bundle/Sonata/BlockBundle/Exception/Filter/FilterInterface.php
+END

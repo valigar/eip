@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Exception
+END
+InvalidMethodCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Exception/InvalidMethodCallException.php
+END
+InvalidDataFormatException.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Exception/InvalidDataFormatException.php
+END

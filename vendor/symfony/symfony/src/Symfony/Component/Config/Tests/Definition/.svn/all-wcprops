@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition
+END
+EnumNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/EnumNodeTest.php
+END
+FloatNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/FloatNodeTest.php
+END
+ReferenceDumperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/ReferenceDumperTest.php
+END
+ScalarNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/ScalarNodeTest.php
+END
+PrototypedArrayNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/PrototypedArrayNodeTest.php
+END
+MergeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/MergeTest.php
+END
+IntegerNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/IntegerNodeTest.php
+END
+ArrayNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/ArrayNodeTest.php
+END
+BooleanNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/BooleanNodeTest.php
+END
+NormalizationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/NormalizationTest.php
+END
+FinalizationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/FinalizationTest.php
+END

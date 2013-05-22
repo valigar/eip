@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Iterator
+END
+IteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Iterator/IteratorTest.php
+END
+DisplayedItemFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Iterator/DisplayedItemFilterIteratorTest.php
+END
+CurrentItemFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/tests/Knp/Menu/Tests/Iterator/CurrentItemFilterIteratorTest.php
+END

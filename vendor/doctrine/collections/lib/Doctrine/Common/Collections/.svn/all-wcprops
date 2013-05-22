@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections
+END
+ArrayCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Collection.php
+END
+Criteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Criteria.php
+END
+Selectable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Selectable.php
+END
+ExpressionBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ExpressionBuilder.php
+END

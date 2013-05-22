@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/Iterator.php
+END
+FilePathsIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/FilePathsIteratorTest.php
+END
+RealIteratorTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/RealIteratorTestCase.php
+END
+FilecontentFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/FilecontentFilterIteratorTest.php
+END
+CustomFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/CustomFilterIteratorTest.php
+END
+ExcludeDirectoryFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/ExcludeDirectoryFilterIteratorTest.php
+END
+MockFileListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/MockFileListIterator.php
+END
+FilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/FilterIteratorTest.php
+END
+FilenameFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/FilenameFilterIteratorTest.php
+END
+FileTypeFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/FileTypeFilterIteratorTest.php
+END
+DepthRangeFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/DepthRangeFilterIteratorTest.php
+END
+SizeRangeFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/SizeRangeFilterIteratorTest.php
+END
+DateRangeFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/DateRangeFilterIteratorTest.php
+END
+PathFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/PathFilterIteratorTest.php
+END
+MockSplFileInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/MockSplFileInfo.php
+END
+MultiplePcreFilterIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/MultiplePcreFilterIteratorTest.php
+END
+IteratorTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/IteratorTestCase.php
+END
+SortableIteratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Finder/Tests/Iterator/SortableIteratorTest.php
+END

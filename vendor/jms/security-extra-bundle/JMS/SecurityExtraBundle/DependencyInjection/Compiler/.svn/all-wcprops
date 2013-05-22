@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler
+END
+AddAfterInvocationProvidersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler/AddAfterInvocationProvidersPass.php
+END
+IntegrationPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler/IntegrationPass.php
+END
+CollectSecuredServicesPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler/CollectSecuredServicesPass.php
+END
+AddExpressionCompilersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler/AddExpressionCompilersPass.php
+END
+DisableVotersPass.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/trunk/vendor/jms/security-extra-bundle/JMS/SecurityExtraBundle/DependencyInjection/Compiler/DisableVotersPass.php
+END

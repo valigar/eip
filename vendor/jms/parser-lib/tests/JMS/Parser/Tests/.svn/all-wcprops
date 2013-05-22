@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/tests/JMS/Parser/Tests
+END
+AbstractParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/tests/JMS/Parser/Tests/AbstractParserTest.php
+END
+AbstractLexerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/tests/JMS/Parser/Tests/AbstractLexerTest.php
+END

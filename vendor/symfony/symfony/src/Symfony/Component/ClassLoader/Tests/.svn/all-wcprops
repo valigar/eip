@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests
+END
+ApcUniversalClassLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/ApcUniversalClassLoaderTest.php
+END
+ClassMapGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/ClassMapGeneratorTest.php
+END
+ClassLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/ClassLoaderTest.php
+END
+DebugClassLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/DebugClassLoaderTest.php
+END
+UniversalClassLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/UniversalClassLoaderTest.php
+END
+ClassCollectionLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/ClassCollectionLoaderTest.php
+END

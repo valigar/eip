@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Namespaced
+END
+Baz.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Namespaced/Baz.php
+END
+WithComments.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Namespaced/WithComments.php
+END
+Foo.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Namespaced/Foo.php
+END
+Bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Namespaced/Bar.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node
+END
+HashNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/HashNodeTest.php
+END
+AttribNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/AttribNodeTest.php
+END
+ClassNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/ClassNodeTest.php
+END
+FunctionNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/FunctionNodeTest.php
+END
+ElementNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/ElementNodeTest.php
+END
+PseudoNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/PseudoNodeTest.php
+END
+OrNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/OrNodeTest.php
+END
+CombinedSelectorNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Tests/Node/CombinedSelectorNodeTest.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList
+END
+ObjectChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ObjectChoiceList.php
+END
+SimpleChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/SimpleChoiceList.php
+END
+ChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ChoiceList.php
+END
+LazyChoiceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/LazyChoiceList.php
+END
+ChoiceListInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/ChoiceList/ChoiceListInterface.php
+END

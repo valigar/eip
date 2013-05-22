@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu
+END
+MenuFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/MenuFactory.php
+END
+ItemInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/ItemInterface.php
+END
+MenuItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/MenuItem.php
+END
+NodeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/NodeInterface.php
+END
+FactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/knplabs/knp-menu/src/Knp/Menu/FactoryInterface.php
+END

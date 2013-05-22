@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer
+END
+README.git
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/README.git
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/.gitignore
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/VERSION
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/CHANGES
+END
+package.xml.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/package.xml.tpl
+END
+create_pear_package.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/create_pear_package.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/build.xml
+END

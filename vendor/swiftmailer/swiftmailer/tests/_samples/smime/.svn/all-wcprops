@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime
+END
+sign.p12
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/sign.p12
+END
+encrypt.p12
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/encrypt.p12
+END
+sign.csr
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/sign.csr
+END
+sign.crt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/sign.crt
+END
+sign.key
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/sign.key
+END
+ca.crt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/ca.crt
+END
+ca.key
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/ca.key
+END
+encrypt.crt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/encrypt.crt
+END
+encrypt.key
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/encrypt.key
+END
+encrypt2.crt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/encrypt2.crt
+END
+encrypt2.key
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/smime/encrypt2.key
+END

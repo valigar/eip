@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader
+END
+YamlFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/YamlFileLoaderTest.php
+END
+QtFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/QtFileLoaderTest.php
+END
+PhpFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/PhpFileLoaderTest.php
+END
+XliffFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/XliffFileLoaderTest.php
+END
+IcuDatFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/IcuDatFileLoaderTest.php
+END
+IcuResFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/IcuResFileLoaderTest.php
+END
+CsvFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/CsvFileLoaderTest.php
+END
+LocalizedTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/LocalizedTestCase.php
+END
+MoFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/MoFileLoaderTest.php
+END
+PoFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/PoFileLoaderTest.php
+END
+IniFileLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Translation/Tests/Loader/IniFileLoaderTest.php
+END

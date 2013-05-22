@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/utf-8
+END
+one.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/utf-8/one.txt
+END
+three.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/utf-8/three.txt
+END
+two.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/utf-8/two.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/src/Metadata/Cache
+END
+DoctrineCacheAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/src/Metadata/Cache/DoctrineCacheAdapter.php
+END
+FileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/src/Metadata/Cache/FileCache.php
+END
+CacheInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/src/Metadata/Cache/CacheInterface.php
+END

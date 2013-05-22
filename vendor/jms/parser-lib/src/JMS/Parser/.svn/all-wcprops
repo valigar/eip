@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/src/JMS/Parser
+END
+SimpleLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/src/JMS/Parser/SimpleLexer.php
+END
+SyntaxErrorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/src/JMS/Parser/SyntaxErrorException.php
+END
+AbstractParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/src/JMS/Parser/AbstractParser.php
+END
+AbstractLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/vendor/jms/parser-lib/src/JMS/Parser/AbstractLexer.php
+END

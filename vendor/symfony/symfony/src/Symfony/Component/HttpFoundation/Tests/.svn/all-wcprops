@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests
+END
+IpUtilsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/IpUtilsTest.php
+END
+FileBagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/FileBagTest.php
+END
+ParameterBagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/ParameterBagTest.php
+END
+ApacheRequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/ApacheRequestTest.php
+END
+RequestMatcherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/RequestMatcherTest.php
+END
+ResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/ResponseTest.php
+END
+HeaderBagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/HeaderBagTest.php
+END
+BinaryFileResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/BinaryFileResponseTest.php
+END
+AcceptHeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/AcceptHeaderTest.php
+END
+CookieTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/CookieTest.php
+END
+RedirectResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/RedirectResponseTest.php
+END
+ServerBagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/ServerBagTest.php
+END
+ResponseHeaderBagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/ResponseHeaderBagTest.php
+END
+StreamedResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/StreamedResponseTest.php
+END
+AcceptHeaderItemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/AcceptHeaderItemTest.php
+END
+RequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/RequestTest.php
+END
+JsonResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Tests/JsonResponseTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/dependency_maps
+END
+cache_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php
+END
+message_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php
+END
+mime_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php
+END
+transport_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php
+END

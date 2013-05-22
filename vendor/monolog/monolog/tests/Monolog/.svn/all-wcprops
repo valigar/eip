@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/tests/Monolog
+END
+PsrLogCompatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/tests/Monolog/TestCase.php
+END
+LoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/monolog/monolog/tests/Monolog/LoggerTest.php
+END

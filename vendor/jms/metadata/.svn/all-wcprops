@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/vendor/jms/metadata
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/.travis.yml
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/CHANGELOG.md
+END
+.jms.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/vendor/jms/metadata/.jms.yml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/RememberMe
+END
+InMemoryTokenProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/RememberMe/InMemoryTokenProvider.php
+END
+TokenProviderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/RememberMe/TokenProviderInterface.php
+END
+PersistentToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/RememberMe/PersistentToken.php
+END
+PersistentTokenInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/5/trunk/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/RememberMe/PersistentTokenInterface.php
+END

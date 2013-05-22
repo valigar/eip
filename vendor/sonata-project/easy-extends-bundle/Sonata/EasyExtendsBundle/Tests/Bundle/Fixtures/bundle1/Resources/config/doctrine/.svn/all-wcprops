@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine
+END
+Block.mongodb.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.mongodb.xml.skeleton
+END
+Block.mongodb.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.mongodb.yml.skeleton
+END
+Page.mongodb.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.mongodb.xml.skeleton
+END
+Page.mongodb.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.mongodb.yml.skeleton
+END
+Block.phpcr.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.phpcr.xml.skeleton
+END
+Block.orm.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.orm.xml.skeleton
+END
+Block.phpcr.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.phpcr.yml.skeleton
+END
+Block.orm.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Block.orm.yml.skeleton
+END
+Page.phpcr.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.phpcr.xml.skeleton
+END
+Page.orm.xml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.orm.xml.skeleton
+END
+Page.phpcr.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.phpcr.yml.skeleton
+END
+Page.orm.yml.skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5/trunk/vendor/sonata-project/easy-extends-bundle/Sonata/EasyExtendsBundle/Tests/Bundle/Fixtures/bundle1/Resources/config/doctrine/Page.orm.yml.skeleton
+END

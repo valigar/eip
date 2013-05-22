@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer
+END
+GsaFeedWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/GsaFeedWriter.php
+END
+InMemoryWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/InMemoryWriter.php
+END
+WriterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/WriterInterface.php
+END
+XmlWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/XmlWriter.php
+END
+SitemapWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/SitemapWriter.php
+END
+XlsWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/XlsWriter.php
+END
+JsonWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/JsonWriter.php
+END
+CsvWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/sonata-project/exporter/lib/Exporter/Writer/CsvWriter.php
+END

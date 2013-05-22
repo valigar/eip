@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests
+END
+NoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests/NoneTest.php
+END
+PerformanceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests/PerformanceTest.php
+END
+SomeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests/SomeTest.php
+END
+LazyOptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests/LazyOptionTest.php
+END
+OptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/vendor/phpoption/phpoption/tests/PhpOption/Tests/OptionTest.php
+END
