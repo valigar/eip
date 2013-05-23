@@ -1,0 +1,20 @@
+
+<TABLE BORDER="1">
+    <CAPTION> Liste des classes que vous administrez </CAPTION>
+    <TR>
+        <TH> Nom de la Classe </TH>
+        <TH> Description de la Classe </TH>
+        <TH> Editer </TH>
+    </TR>
+    {% for classroom in classrooms %}
+        <TR>
+            <TD> {{ classroom.classname }} </TD>
+            <TD> {{ classroom.description }} </TD>
+            <TD>
+                <a href="{{ path('user_user_edit_classroom', { 'classId': classroom.id }) }}">
+                    <input type="submit" value="Edit"/>
+                </a>
+            </TD>
+        </TR>
+    {% endfor %}
+</TABLE>

@@ -1,0 +1,20 @@
+<TABLE BORDER="1">
+    <CAPTION> Liste des classes que vous pouvez rejoindre </CAPTION>
+    <TR>
+        <TH> Nom de la Classe </TH>
+        <TH> Description de la Classe </TH>
+        <TH> Rejoindre </TH>
+    </TR>
+    {% for list in classroom_list %}
+        <TR>
+            <TD> {{ list.classname }} </TD>
+            <TD> {{ list.description }} </TD>
+            <TD>
+                <a href="{{ path('user_student_join_classroom', { 'classId': list.id }) }}">
+                    <input type="submit" value="Rejoindre la Classe"/>
+                </a>
+
+            </TD>
+        </TR>
+    {% endfor %}
+</TABLE>
