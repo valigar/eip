@@ -11372,8 +11372,9 @@ return $this;
 }
 protected function addFieldToCurrentGroup($fieldName)
 {
+$currentGroup = $this->getCurrentGroupName();
 $groups = $this->getGroups();
-$groups[$this->getCurrentGroupName()]['fields'][$fieldName] = $fieldName;
+$groups[$currentGroup]['fields'][$fieldName] = $fieldName;
 $this->setGroups($groups);
 }
 protected function getCurrentGroupName()
@@ -14106,7 +14107,7 @@ public function __construct(ContainerInterface $container, ConstraintValidatorFa
 $this->container = $container;
 $this->constraintValidatorFactory = $constraintValidatorFactory;
 }
-public function isValid($value, Constraint $constraint)
+public function validate($value, Constraint $constraint)
 {
 $errorElement = new ErrorElement(
 $value,
@@ -14125,7 +14126,6 @@ $service = $constraint->getService();
 $function = array($service, $constraint->getMethod());
 }
 call_user_func($function, $errorElement, $value);
-return true;
 }
 }
 }
@@ -14390,13 +14390,13 @@ return new Response();
 }
 namespace Sonata\BlockBundle\Block\Service
 {
-use Sonata\BlockBundle\Block\BlockContextInterface;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 use Sonata\AdminBundle\Form\FormMapper;
 use Sonata\AdminBundle\Validator\ErrorElement;
 use Sonata\BlockBundle\Model\BlockInterface;
+use Sonata\BlockBundle\Block\BlockContextInterface;
 use Sonata\BlockBundle\Block\BaseBlockService;
-use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 class RssBlockService extends BaseBlockService
 {
 public function getName()
