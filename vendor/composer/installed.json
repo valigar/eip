@@ -2384,83 +2384,6 @@
         ]
     },
     {
-        "name": "sonata-project/admin-bundle",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "target-dir": "Sonata/AdminBundle",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/sonata-project/SonataAdminBundle.git",
-            "reference": "29b8ffcc65fb1f538de186ced7aaeac343a9dc2a"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/29b8ffcc65fb1f538de186ced7aaeac343a9dc2a",
-            "reference": "29b8ffcc65fb1f538de186ced7aaeac343a9dc2a",
-            "shasum": ""
-        },
-        "require": {
-            "doctrine/common": ">=2.2,<3.0",
-            "knplabs/knp-menu-bundle": ">=1.1,<2.0",
-            "sonata-project/block-bundle": ">=2.2.1,<3.0",
-            "sonata-project/exporter": "1.*",
-            "sonata-project/jquery-bundle": "1.8.*",
-            "symfony/config": ">=2.2,<2.4-dev",
-            "symfony/console": ">=2.2,<2.4-dev",
-            "symfony/form": ">=2.2,<2.4-dev",
-            "symfony/http-foundation": ">=2.2,<2.4-dev",
-            "symfony/routing": ">=2.2,<2.4-dev",
-            "symfony/security-bundle": ">=2.2,<2.4-dev",
-            "symfony/twig-bridge": ">=2.2,<2.4-dev",
-            "symfony/validator": ">=2.2,<2.4-dev",
-            "twig/twig": ">=1.12,<2.0-dev"
-        },
-        "require-dev": {
-            "jms/translation-bundle": "*@dev",
-            "sonata-project/intl-bundle": "2.1.*"
-        },
-        "suggest": {
-            "sonata-project/doctrine-orm-admin-bundle": "2.2.*@dev",
-            "sonata-project/intl-bundle": "2.1.*"
-        },
-        "time": "2013-05-22 15:15:28",
-        "type": "symfony-bundle",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "2.2.x-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-0": {
-                "Sonata\\AdminBundle": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Thomas Rabaix",
-                "email": "thomas.rabaix@sonata-project.org",
-                "homepage": "http://sonata-project.org"
-            },
-            {
-                "name": "Sonata Community",
-                "homepage": "https://github.com/sonata-project/SonataAdminBundle/contributors"
-            }
-        ],
-        "description": "Symfony SonataAdminBundle",
-        "homepage": "http://sonata-project.org/bundles/admin",
-        "keywords": [
-            "Admin Generator",
-            "admin",
-            "bootstrap",
-            "sonata"
-        ]
-    },
-    {
         "name": "sonata-project/user-bundle",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
@@ -2646,6 +2569,83 @@
             "editor",
             "tinymce",
             "wysiwyg"
+        ]
+    },
+    {
+        "name": "sonata-project/admin-bundle",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "target-dir": "Sonata/AdminBundle",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sonata-project/SonataAdminBundle.git",
+            "reference": "c636abcd9d94a7c2e507054fb098e82bb702aca4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/c636abcd9d94a7c2e507054fb098e82bb702aca4",
+            "reference": "c636abcd9d94a7c2e507054fb098e82bb702aca4",
+            "shasum": ""
+        },
+        "require": {
+            "doctrine/common": ">=2.2,<3.0",
+            "knplabs/knp-menu-bundle": ">=1.1,<2.0",
+            "sonata-project/block-bundle": ">=2.2.1,<3.0",
+            "sonata-project/exporter": "1.*",
+            "sonata-project/jquery-bundle": "1.8.*",
+            "symfony/config": ">=2.2,<2.4-dev",
+            "symfony/console": ">=2.2,<2.4-dev",
+            "symfony/form": ">=2.2,<2.4-dev",
+            "symfony/http-foundation": ">=2.2,<2.4-dev",
+            "symfony/routing": ">=2.2,<2.4-dev",
+            "symfony/security-bundle": ">=2.2,<2.4-dev",
+            "symfony/twig-bridge": ">=2.2,<2.4-dev",
+            "symfony/validator": ">=2.2,<2.4-dev",
+            "twig/twig": ">=1.12,<2.0-dev"
+        },
+        "require-dev": {
+            "jms/translation-bundle": "*@dev",
+            "sonata-project/intl-bundle": "2.1.*"
+        },
+        "suggest": {
+            "sonata-project/doctrine-orm-admin-bundle": "2.2.*@dev",
+            "sonata-project/intl-bundle": "2.1.*"
+        },
+        "time": "2013-05-23 08:47:27",
+        "type": "symfony-bundle",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.2.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Sonata\\AdminBundle": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Thomas Rabaix",
+                "email": "thomas.rabaix@sonata-project.org",
+                "homepage": "http://sonata-project.org"
+            },
+            {
+                "name": "Sonata Community",
+                "homepage": "https://github.com/sonata-project/SonataAdminBundle/contributors"
+            }
+        ],
+        "description": "Symfony SonataAdminBundle",
+        "homepage": "http://sonata-project.org/bundles/admin",
+        "keywords": [
+            "Admin Generator",
+            "admin",
+            "bootstrap",
+            "sonata"
         ]
     }
 ]

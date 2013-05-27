@@ -15,14 +15,17 @@ use User\BlocNoteBundle\Entity\report;
 class DefaultController extends Controller
 {
     /**
-     * @Route("/bloc_note")
+     * @Route("/bloc_note", name="user_blocnote_default_create")
      * @Template()
      */
     public function indexAction()
     {
-        $user = $this->get('security.context')->getToken()->getUser();
-
         $securityContext = $this->container->get('security.context');
+
+        if (!$securityContext->isGranted('IS_AUTHENTICATED_REMEMBERED'))
+            throw $this->createNotFoundException('The page does not exist');
+
+        $user = $this->get('security.context')->getToken()->getUser();
 
         $request = $this->getRequest();
 
@@ -30,9 +33,6 @@ class DefaultController extends Controller
         $repository = $em->getRepository('UserBlocNoteBundle:BlocNote');
 
         $noteExist = $repository->findOneBy(array('userId' => $user->getId()));
-
-        if (!$securityContext->isGranted('IS_AUTHENTICATED_REMEMBERED'))
-            throw $this->createNotFoundException('The page does not exist');
 
         if ($request->getMethod() == 'GET') {
 
@@ -43,7 +43,6 @@ class DefaultController extends Controller
                 $query = $em->createQuery(
                     'SELECT p.noteContent FROM UserBlocNoteBundle:BlocNote p WHERE p.userId = ' . $user->getId());
                 $content = $query->getResult();
-                //var_dump($content[0]['noteContent']);
 
                 if ($content) {
 
