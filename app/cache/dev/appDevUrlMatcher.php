@@ -224,6 +224,50 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
 
         }
 
+        if (0 === strpos($pathinfo, '/professor/classroom')) {
+            // user_user_create_classroom
+            if ($pathinfo === '/professor/classroom/create') {
+                return array (  '_controller' => 'User\\UserBundle\\Controller\\DefaultController::createClassroomAction',  '_route' => 'user_user_create_classroom',);
+            }
+
+            // user_user_edit_classroom
+            if (0 === strpos($pathinfo, '/professor/classroom/edit') && preg_match('#^/professor/classroom/edit/(?P<classId>[^/]++)$#s', $pathinfo, $matches)) {
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'user_user_edit_classroom')), array (  '_controller' => 'User\\UserBundle\\Controller\\DefaultController::editClassroomAction',));
+            }
+
+            // user_user_classroom
+            if ($pathinfo === '/professor/classroom') {
+                return array (  '_controller' => 'User\\UserBundle\\Controller\\DefaultController::showClassroomAction',  '_route' => 'user_user_classroom',);
+            }
+
+        }
+
+        if (0 === strpos($pathinfo, '/student')) {
+            // user_student_classroom_list
+            if ($pathinfo === '/student/classroom_list') {
+                return array (  '_controller' => 'User\\UserBundle\\Controller\\StudentController::ClassroomListAction',  '_route' => 'user_student_classroom_list',);
+            }
+
+            // user_student_join_classroom
+            if (0 === strpos($pathinfo, '/student/join_classroom') && preg_match('#^/student/join_classroom/(?P<classId>[^/]++)$#s', $pathinfo, $matches)) {
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'user_student_join_classroom')), array (  '_controller' => 'User\\UserBundle\\Controller\\StudentController::JoinClassroomAction',));
+            }
+
+            if (0 === strpos($pathinfo, '/student/quit_classroom')) {
+                // user_student_quit_classroom_list
+                if ($pathinfo === '/student/quit_classroom_list') {
+                    return array (  '_controller' => 'User\\UserBundle\\Controller\\StudentController::quitClassroomListAction',  '_route' => 'user_student_quit_classroom_list',);
+                }
+
+                // user_student_quit_classroom
+                if (preg_match('#^/student/quit_classroom/(?P<classId>[^/]++)$#s', $pathinfo, $matches)) {
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'user_student_quit_classroom')), array (  '_controller' => 'User\\UserBundle\\Controller\\StudentController::quitClassroomAction',));
+                }
+
+            }
+
+        }
+
         if (0 === strpos($pathinfo, '/log')) {
             if (0 === strpos($pathinfo, '/login')) {
                 // fos_user_security_login
