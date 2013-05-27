@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/Entity
+END
+reportRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/Entity/reportRepository.php
+END
+report.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/Entity/report.php
+END
+BlocNote.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/Entity/BlocNote.php
+END
+BlocNoteRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/src/User/BlocNoteBundle/Entity/BlocNoteRepository.php
+END

@@ -8,11 +8,7 @@
     </TR>
     {% for classroom in classrooms %}
         <TR>
-            <TD>
-                <a href="{{ path('user_user_classroom_content', { 'classId': classroom.id }) }}">
-                    {{ classroom.classname }}
-                </a>
-            </TD>
+            <TD> {{ classroom.classname }} </TD>
             <TD> {{ classroom.description }} </TD>
             <TD>
                 <a href="{{ path('user_user_edit_classroom', { 'classId': classroom.id }) }}">
