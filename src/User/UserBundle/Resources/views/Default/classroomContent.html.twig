@@ -1,0 +1,70 @@
+<h1>Upload File</h1>
+
+<form method="post" {{ form_enctype(form) }}>
+    {{ form_widget(form) }}
+
+    <input type="submit" value="Upload Document" />
+</form>
+
+
+<h1>Courses List</h1>
+
+<TABLE BORDER="1">
+    <TR>
+        <TH> Nom du Cours </TH>
+        <TH> Activer / Désactiver le cours </TH>
+        <!--<TH> Supprimer </TH>-->
+    </TR>
+    {% for course in allCourse %}
+        <TR>
+            <TD>
+                {{ course.filename }}
+            </TD>
+            <TD>
+                {% if course.isActivated == 0 %}
+                    <a href="{{ path('user_user_course_activate_desactivate', { 'courseId': course.id, 'isActivated': true }) }}">
+                        <input type="submit" value="Activer"/>
+                    </a>
+                {% else %}
+                    <a href="{{ path('user_user_course_activate_desactivate', {'courseId': course.id, 'isActivated': 'false' }) }}">
+                        <input type="submit" value="Désactiver"/>
+                    </a>
+                {% endif %}
+            </TD>
+            <!--<TD>
+                <a href="{#{ path('user_user_course_delete', { 'courseId': course.id }) }#}">
+                    <input type="submit" value="Supprimer"/>
+                </a>
+            </TD>-->
+        </TR>
+    {% endfor %}
+</TABLE>
+
+<h1>Grade List</h1>
+<TABLE BORDER="1">
+    <TR>
+        <TH> Grade name </TH>
+        <TH> Total </TH>
+        <!--<TH> Supprimer </TH>-->
+    </TR>
+    {% for grade in allGrade %}
+        <TR>
+            <TD>
+                {{ grade.gradeName }}
+            </TD>
+            <TD>
+                {{ grade.gradeTotal }}
+            </TD>
+            <!--<TD>
+                <a href="{#{ path('user_user_course_delete', { 'courseId': course.id }) }#}">
+                    <input type="submit" value="Supprimer"/>
+                </a>
+            </TD>-->
+        </TR>
+    {% endfor %}
+</TABLE>
+
+
+<a href="{{ path('user_user_create_grade', { 'classId': classId }) }}">
+   Créer une nouvelle notation
+</a>
